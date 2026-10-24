@@ -1,0 +1,41 @@
+[
+  {
+    "slug": "word-document-expert",
+    "display_name": "Word 文档专家",
+    "icon": "assets/word-document-expert-icon.png",
+    "letter": "W",
+    "color": "蓝色",
+    "dimensions": [
+      512,
+      512
+    ],
+    "status": "prepared",
+    "platform_applied": false
+  },
+  {
+    "slug": "excel-document-expert",
+    "display_name": "Excel 文档专家",
+    "icon": "assets/excel-document-expert-icon.png",
+    "letter": "X",
+    "color": "绿色",
+    "dimensions": [
+      512,
+      512
+    ],
+    "status": "prepared",
+    "platform_applied": false
+  },
+  {
+    "slug": "ppt-presentation-expert",
+    "display_name": "PPT 演示专家",
+    "icon": "assets/ppt-presentation-expert-icon.png",
+    "letter": "P",
+    "color": "橙色",
+    "dimensions": [
+      512,
+      512
+    ],
+    "status": "prepared",
+    "platform_applied": false
+  }
+]
