@@ -146,13 +146,11 @@
   {
     "number": 19,
     "name": "财务对账与月结专家",
-    "status": "validated_pending_paid_release",
+    "status": "submitted_under_review",
     "version": "1.0.1",
     "validation": "workbuddy_core_passed",
-    "paid_release": "pending",
-    "launch_price_cny": 19,
-    "billing_mode": "one_time",
-    "price_status": "planned_not_live"
+    "paid_release": "under_review",
+    "published": false
   },
   {
     "number": 20,

@@ -202,8 +202,9 @@
       "amount_cny": 19,
       "billing_mode": "one_time",
       "price_status": "launch_plan_not_live",
-      "release_readiness": "core_validated_pending_paid_release",
-      "required_delivery": "已验收CSV对账、月结依赖计划、金额变动检查和异常输入拒绝；不承诺原生Excel"
+      "release_readiness": "submitted_under_review",
+      "required_delivery": "已验收CSV对账、月结依赖计划、金额变动检查和异常输入拒绝；不承诺原生Excel",
+      "saved_platform_price": "UNKNOWN"
     },
     {
       "number": 20,
