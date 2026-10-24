@@ -155,10 +155,19 @@
   {
     "number": 20,
     "name": "数据质量专家",
-    "status": "planned",
+    "status": "submitted_under_review",
     "launch_price_cny": 59,
     "billing_mode": "one_time",
-    "price_status": "planned_not_live"
+    "price_status": "saved_not_live",
+    "slug": "data-quality-expert",
+    "version": "1.0.1",
+    "validation": "local_core_and_chinese_output_passed",
+    "workbuddy_validation": "passed",
+    "paid_release": "submitted_under_review",
+    "published": false,
+    "package": "dist/data-quality-expert-1.0.1.zip",
+    "status_zh": "已提交，审核中",
+    "confirmed_price_cny": 59
   },
   {
     "number": 21,
@@ -219,10 +228,19 @@
   {
     "number": 28,
     "name": "项目管理专家",
-    "status": "planned",
+    "status": "submitted_under_review",
     "launch_price_cny": 79,
     "billing_mode": "one_time",
-    "price_status": "planned_not_live"
+    "price_status": "saved_not_live",
+    "slug": "project-management-expert",
+    "version": "1.0.1",
+    "validation": "local_core_and_chinese_output_passed",
+    "workbuddy_validation": "passed",
+    "paid_release": "submitted_under_review",
+    "published": false,
+    "package": "dist/project-management-expert-1.0.1.zip",
+    "status_zh": "已提交，审核中",
+    "confirmed_price_cny": 79
   },
   {
     "number": 29,
@@ -379,10 +397,19 @@
   {
     "number": 48,
     "name": "供应商评估专家",
-    "status": "planned",
+    "status": "submitted_under_review",
     "launch_price_cny": 69,
     "billing_mode": "one_time",
-    "price_status": "planned_not_live"
+    "price_status": "saved_not_live",
+    "slug": "vendor-evaluation-expert",
+    "version": "1.0.1",
+    "validation": "local_core_and_chinese_output_passed",
+    "workbuddy_validation": "passed",
+    "paid_release": "submitted_under_review",
+    "published": false,
+    "package": "dist/vendor-evaluation-expert-1.0.1.zip",
+    "status_zh": "已提交，审核中",
+    "confirmed_price_cny": 69
   },
   {
     "number": 49,
