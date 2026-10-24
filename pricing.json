@@ -1,0 +1,519 @@
+{
+  "version": 1,
+  "date": "2026-10-24",
+  "currency": "CNY",
+  "allowed_prices_cny": [
+    19,
+    29,
+    39,
+    59,
+    69,
+    79,
+    99
+  ],
+  "policy": "按完整交付价值定首发价；当前不提供月度持续服务，50项采用一次性付费。各项产品完成相应交付与验收后逐个上架。",
+  "monthly_policy": "只有明确且已具备持续更新或持续服务交付时，才另行评估月订阅；不会默认把高频使用设成订阅。",
+  "platform_configuration_status": "not_saved",
+  "products": [
+    {
+      "number": 1,
+      "name": "商务写作专家",
+      "slug": "business-writing-expert",
+      "amount_cny": 29,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "多文种成稿、事实一致性和局部修订完整可用"
+    },
+    {
+      "number": 2,
+      "name": "文档润色专家",
+      "slug": "document-polish-expert",
+      "amount_cny": 19,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "保留原意、条件与数字，交付改稿和重要修改对照"
+    },
+    {
+      "number": 3,
+      "name": "长文阅读专家",
+      "slug": "document-summary-expert",
+      "amount_cny": 29,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "长资料覆盖、分层精读和原文定位可核对"
+    },
+    {
+      "number": 4,
+      "name": "合同文档对比专家",
+      "slug": "document-compare-expert",
+      "amount_cny": 69,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "真实Word文件比对、修订或批注结果可继续审阅，并通过打开与版式检查"
+    },
+    {
+      "number": 5,
+      "name": "企业制度专家",
+      "slug": "policy-guide-expert",
+      "amount_cny": 39,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "制度条款对应办理步骤，保留适用条件、例外与版本冲突"
+    },
+    {
+      "number": 6,
+      "name": "企业知识库专家",
+      "slug": "knowledge-faq-expert",
+      "amount_cny": 59,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "多文档知识整理、问题归并、依据定位和版本更新可用，不承诺托管知识库"
+    },
+    {
+      "number": 7,
+      "name": "商务翻译专家",
+      "slug": "translation-review-expert",
+      "amount_cny": 39,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "双语逐段校对、术语一致、数字及承诺强度核对可用"
+    },
+    {
+      "number": 8,
+      "name": "商务邮件专家",
+      "slug": "email-draft-expert",
+      "amount_cny": 19,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "依据往来资料生成回复、催办与邀约，保留已知条件"
+    },
+    {
+      "number": 9,
+      "name": "PPT演示专家",
+      "slug": "ppt-outline-expert",
+      "amount_cny": 99,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "生成并修改真实可编辑PPTX，图表、讲稿、字体与页面渲染通过验收"
+    },
+    {
+      "number": 10,
+      "name": "工作汇报专家",
+      "slug": "executive-brief-expert",
+      "amount_cny": 29,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "多部门材料形成管理简报，变化、依据和待决策事项完整"
+    },
+    {
+      "number": 11,
+      "name": "资料研究专家",
+      "slug": "research-synthesis-expert",
+      "amount_cny": 59,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "多资料综述、证据定位、分歧比较和阅读覆盖可核对"
+    },
+    {
+      "number": 12,
+      "name": "内容改写专家",
+      "slug": "content-repurpose-expert",
+      "amount_cny": 29,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "同一资料多渠道改写，事实一致并支持局部续改"
+    },
+    {
+      "number": 13,
+      "name": "用户研究专家",
+      "slug": "interview-insights-expert",
+      "amount_cny": 59,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "访谈编码、洞察归纳、反例与原话证据可核对"
+    },
+    {
+      "number": 14,
+      "name": "会议策划专家",
+      "slug": "meeting-prepare-expert",
+      "amount_cny": 19,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "议程、时间分配、会前材料和决策问题可直接使用"
+    },
+    {
+      "number": 15,
+      "name": "会议决策专家",
+      "slug": "decision-log-expert",
+      "amount_cny": 39,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "准确区分提议与已确认决策，形成责任和复查条件清单"
+    },
+    {
+      "number": 16,
+      "name": "SOP流程专家",
+      "slug": "sop-author-expert",
+      "amount_cny": 59,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "完整SOP、责任、异常分支和验收清单经独立执行检查"
+    },
+    {
+      "number": 17,
+      "name": "员工培训专家",
+      "slug": "training-material-expert",
+      "amount_cny": 69,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "课程、讲师材料、练习与答案成套交付，并验证文件可继续编辑"
+    },
+    {
+      "number": 18,
+      "name": "Excel文档专家",
+      "slug": "csv-clean-expert",
+      "amount_cny": 99,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "真实工作簿读写、清洗、公式、格式美化和图表经过运行与文件打开验收"
+    },
+    {
+      "number": 19,
+      "name": "财务对账与月结专家",
+      "slug": "finance-reconciliation-expert",
+      "amount_cny": 59,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "core_validated_pending_paid_release",
+      "required_delivery": "已验收CSV对账、月结依赖计划、金额变动检查和异常输入拒绝；不承诺原生Excel"
+    },
+    {
+      "number": 20,
+      "name": "数据质量专家",
+      "slug": "data-quality-expert",
+      "amount_cny": 59,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "规则驱动的实际数据检查、记录级定位和异常报告可重复执行"
+    },
+    {
+      "number": 21,
+      "name": "业务指标专家",
+      "slug": "metric-definition-expert",
+      "amount_cny": 39,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "指标口径、边界案例和公式验证完整，统计口径可复核"
+    },
+    {
+      "number": 22,
+      "name": "Excel公式专家",
+      "slug": "spreadsheet-formula-expert",
+      "amount_cny": 59,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "真实工作簿公式诊断与修复、兼容性及重算结果通过检查"
+    },
+    {
+      "number": 23,
+      "name": "费用报销专家",
+      "slug": "expense-review-expert",
+      "amount_cny": 39,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "费用明细、重复信号与材料缺口逐笔可核对，不自动审批报销"
+    },
+    {
+      "number": 24,
+      "name": "预算管理专家",
+      "slug": "budget-variance-expert",
+      "amount_cny": 69,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "预算实际对比、差异计算、情景假设与可编辑报告通过验收"
+    },
+    {
+      "number": 25,
+      "name": "问卷分析专家",
+      "slug": "survey-analysis-expert",
+      "amount_cny": 59,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "有效样本、分组统计、开放题主题和结果表计算可复核"
+    },
+    {
+      "number": 26,
+      "name": "销售漏斗专家",
+      "slug": "funnel-analysis-expert",
+      "amount_cny": 69,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "漏斗计算、分组比较、流失定位和图表按同一口径验证"
+    },
+    {
+      "number": 27,
+      "name": "数据可视化专家",
+      "slug": "chart-plan-expert",
+      "amount_cny": 79,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "从实际数据生成可交付图表文件，单位、坐标、聚合和导出效果通过验收"
+    },
+    {
+      "number": 28,
+      "name": "项目管理专家",
+      "slug": "project-plan-expert",
+      "amount_cny": 79,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "依赖计划、关键路径、里程碑及资源冲突检查形成可维护项目文件"
+    },
+    {
+      "number": 29,
+      "name": "需求分析专家",
+      "slug": "requirement-review-expert",
+      "amount_cny": 59,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "需求结构化、规则冲突、异常分支和验收条件完整可评审"
+    },
+    {
+      "number": 30,
+      "name": "交付验收专家",
+      "slug": "acceptance-check-expert",
+      "amount_cny": 59,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "交付范围映射到可执行验收项、证据记录及缺陷复核流程"
+    },
+    {
+      "number": 31,
+      "name": "项目风险专家",
+      "slug": "risk-register-expert",
+      "amount_cny": 39,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "风险、触发信号、责任和应对动作组成可维护台账"
+    },
+    {
+      "number": 32,
+      "name": "项目进度专家",
+      "slug": "progress-report-expert",
+      "amount_cny": 39,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "实际进展、里程碑依赖和延期影响可核对并支持更新"
+    },
+    {
+      "number": 33,
+      "name": "工作交接专家",
+      "slug": "work-handoff-expert",
+      "amount_cny": 29,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "状态、资料、未决事项和接手行动组成完整交接包"
+    },
+    {
+      "number": 34,
+      "name": "项目复盘专家",
+      "slug": "retrospective-expert",
+      "amount_cny": 39,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "目标结果对比、原因证据和后续行动完整可追踪"
+    },
+    {
+      "number": 35,
+      "name": "产品经理专家",
+      "slug": "product-prd-expert",
+      "amount_cny": 79,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "PRD、用户流程、业务规则、异常和验收材料成套交付并完成一致性检查"
+    },
+    {
+      "number": 36,
+      "name": "用户故事专家",
+      "slug": "user-story-expert",
+      "amount_cny": 29,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "用户故事、验收条件及异常场景可拆分且不重复"
+    },
+    {
+      "number": 37,
+      "name": "客户反馈专家",
+      "slug": "feedback-triage-expert",
+      "amount_cny": 39,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "反馈归并、原话定位、优先级依据和处理清单完整"
+    },
+    {
+      "number": 38,
+      "name": "竞品分析专家",
+      "slug": "competitor-compare-expert",
+      "amount_cny": 59,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "按有效版本比较功能与价格，所有重要结论可追溯到资料"
+    },
+    {
+      "number": 39,
+      "name": "产品发布专家",
+      "slug": "launch-checklist-expert",
+      "amount_cny": 59,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "发布准备、依赖、阻塞、回退和验证事项形成可执行发布包"
+    },
+    {
+      "number": 40,
+      "name": "新媒体运营专家",
+      "slug": "content-calendar-expert",
+      "amount_cny": 59,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "内容计划、制作日历、多形式稿件和复盘表成套交付，不承诺自动发布或追踪热点"
+    },
+    {
+      "number": 41,
+      "name": "营销策划专家",
+      "slug": "campaign-plan-expert",
+      "amount_cny": 79,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "目标、预算测算、渠道方案、执行日历和衡量指标形成完整活动方案"
+    },
+    {
+      "number": 42,
+      "name": "客服沟通专家",
+      "slug": "customer-reply-expert",
+      "amount_cny": 19,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "依据客户原话及现有政策生成客服回复，未知条件明确"
+    },
+    {
+      "number": 43,
+      "name": "客诉处理专家",
+      "slug": "complaint-resolution-expert",
+      "amount_cny": 39,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "客诉事实、处理权限、沟通方案和结案依据完整可核对"
+    },
+    {
+      "number": 44,
+      "name": "销售跟进专家",
+      "slug": "account-followup-expert",
+      "amount_cny": 59,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "客户资料、跟进阶段、下一步行动和沟通稿成套交付，不承诺自动发消息"
+    },
+    {
+      "number": 45,
+      "name": "招聘面试专家",
+      "slug": "interview-question-expert",
+      "amount_cny": 39,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "岗位面试题、追问、能力观察和结构化记录完整，不自动作录用决定"
+    },
+    {
+      "number": 46,
+      "name": "入职培训专家",
+      "slug": "onboarding-guide-expert",
+      "amount_cny": 39,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "入职学习路径、任务、资料和阶段检查完整可执行"
+    },
+    {
+      "number": 47,
+      "name": "招聘JD专家",
+      "slug": "job-description-expert",
+      "amount_cny": 19,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "岗位职责、必需能力、加分项及入职成果清楚一致"
+    },
+    {
+      "number": 48,
+      "name": "供应商评估专家",
+      "slug": "vendor-compare-expert",
+      "amount_cny": 69,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "供应商评分、SLA计算、风险和续约比较形成有依据的结果文件"
+    },
+    {
+      "number": 49,
+      "name": "商务报价专家",
+      "slug": "quotation-check-expert",
+      "amount_cny": 59,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "报价金额复算、条款核对、局部变更和可编辑报价文件通过验收"
+    },
+    {
+      "number": 50,
+      "name": "活动执行专家",
+      "slug": "event-runbook-expert",
+      "amount_cny": 69,
+      "billing_mode": "one_time",
+      "price_status": "launch_plan_not_live",
+      "release_readiness": "implementation_and_validation_pending",
+      "required_delivery": "预算、人员、分钟级流程、物料、异常预案和复盘指标成套交付"
+    }
+  ]
+}

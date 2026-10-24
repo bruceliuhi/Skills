@@ -2,92 +2,146 @@
   {
     "number": 1,
     "name": "商务写作专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 29,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 2,
     "name": "文档润色专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 19,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 3,
     "name": "长文阅读专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 29,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 4,
     "name": "合同文档对比专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 69,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 5,
     "name": "企业制度专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 39,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 6,
     "name": "企业知识库专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 59,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 7,
     "name": "商务翻译专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 39,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 8,
     "name": "商务邮件专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 19,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 9,
     "name": "PPT演示专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 99,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 10,
     "name": "工作汇报专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 29,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 11,
     "name": "资料研究专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 59,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 12,
     "name": "内容改写专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 29,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 13,
     "name": "用户研究专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 59,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 14,
     "name": "会议策划专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 19,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 15,
     "name": "会议决策专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 39,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 16,
     "name": "SOP流程专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 59,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 17,
     "name": "员工培训专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 69,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 18,
     "name": "Excel文档专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 99,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 19,
@@ -95,161 +149,257 @@
     "status": "validated_pending_paid_release",
     "version": "1.0.1",
     "validation": "workbuddy_core_passed",
-    "paid_release": "pending"
+    "paid_release": "pending",
+    "launch_price_cny": 59,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 20,
     "name": "数据质量专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 59,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 21,
     "name": "业务指标专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 39,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 22,
     "name": "Excel公式专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 59,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 23,
     "name": "费用报销专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 39,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 24,
     "name": "预算管理专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 69,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 25,
     "name": "问卷分析专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 59,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 26,
     "name": "销售漏斗专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 69,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 27,
     "name": "数据可视化专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 79,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 28,
     "name": "项目管理专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 79,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 29,
     "name": "需求分析专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 59,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 30,
     "name": "交付验收专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 59,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 31,
     "name": "项目风险专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 39,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 32,
     "name": "项目进度专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 39,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 33,
     "name": "工作交接专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 29,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 34,
     "name": "项目复盘专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 39,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 35,
     "name": "产品经理专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 79,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 36,
     "name": "用户故事专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 29,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 37,
     "name": "客户反馈专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 39,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 38,
     "name": "竞品分析专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 59,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 39,
     "name": "产品发布专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 59,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 40,
     "name": "新媒体运营专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 59,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 41,
     "name": "营销策划专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 79,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 42,
     "name": "客服沟通专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 19,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 43,
     "name": "客诉处理专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 39,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 44,
     "name": "销售跟进专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 59,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 45,
     "name": "招聘面试专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 39,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 46,
     "name": "入职培训专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 39,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 47,
     "name": "招聘JD专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 19,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 48,
     "name": "供应商评估专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 69,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 49,
     "name": "商务报价专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 59,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   },
   {
     "number": 50,
     "name": "活动执行专家",
-    "status": "planned"
+    "status": "planned",
+    "launch_price_cny": 69,
+    "billing_mode": "one_time",
+    "price_status": "planned_not_live"
   }
 ]
