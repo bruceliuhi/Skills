@@ -1,0 +1,1870 @@
+{
+  "format": 1,
+  "product": "ppt-presentation-expert",
+  "layout": "visible-two-level",
+  "files": {
+    "README.md": "README.md",
+    "SKILL.md": "SKILL.md",
+    "references/ai-image-comparison/README.md": "references/ai-image-comparison__README.md",
+    "references/ai-image-comparison/palette/_manifest.json": "references/ai-image-comparison__palette___manifest.json",
+    "references/ai-image-comparison/palette/_manifest.md": "references/ai-image-comparison__palette___manifest.md",
+    "references/ai-image-comparison/palette/_subject.md": "references/ai-image-comparison__palette___subject.md",
+    "references/ai-image-comparison/rendering/_manifest.json": "references/ai-image-comparison__rendering___manifest.json",
+    "references/ai-image-comparison/rendering/_manifest.md": "references/ai-image-comparison__rendering___manifest.md",
+    "references/ai-image-comparison/rendering/_subject.md": "references/ai-image-comparison__rendering___subject.md",
+    "references/ai-image-comparison/type/_manifest.json": "references/ai-image-comparison__type___manifest.json",
+    "references/ai-image-comparison/type/_manifest.md": "references/ai-image-comparison__type___manifest.md",
+    "references/ai-image-comparison/type/_subject.md": "references/ai-image-comparison__type___subject.md",
+    "references/animations.md": "references/animations.md",
+    "references/artifact-ownership.md": "references/artifact-ownership.md",
+    "references/canvas-formats.md": "references/canvas-formats.md",
+    "references/confirm-surface.md": "references/confirm-surface.md",
+    "references/executor-base.md": "references/executor-base.md",
+    "references/executor-chart.md": "references/executor-chart.md",
+    "references/executor-image.md": "references/executor-image.md",
+    "references/executor-notes.md": "references/executor-notes.md",
+    "references/executor-structure.md": "references/executor-structure.md",
+    "references/executor-structured.md": "references/executor-structured.md",
+    "references/executor-table.md": "references/executor-table.md",
+    "references/executor-visualization.md": "references/executor-visualization.md",
+    "references/executor-web-image.md": "references/executor-web-image.md",
+    "references/image-base.md": "references/image-base.md",
+    "references/image-generator.md": "references/image-generator.md",
+    "references/image-layout-patterns.md": "references/image-layout-patterns.md",
+    "references/image-layout-spec.md": "references/image-layout-spec.md",
+    "references/image-palettes/_index.md": "references/image-palettes___index.md",
+    "references/image-palettes/cool-corporate.md": "references/image-palettes__cool-corporate.md",
+    "references/image-palettes/dark-cinematic.md": "references/image-palettes__dark-cinematic.md",
+    "references/image-palettes/duotone.md": "references/image-palettes__duotone.md",
+    "references/image-palettes/earthy-dusty.md": "references/image-palettes__earthy-dusty.md",
+    "references/image-palettes/editorial-classic.md": "references/image-palettes__editorial-classic.md",
+    "references/image-palettes/frost-ice.md": "references/image-palettes__frost-ice.md",
+    "references/image-palettes/jewel-tone.md": "references/image-palettes__jewel-tone.md",
+    "references/image-palettes/macaron.md": "references/image-palettes__macaron.md",
+    "references/image-palettes/mono-ink.md": "references/image-palettes__mono-ink.md",
+    "references/image-palettes/nature-organic.md": "references/image-palettes__nature-organic.md",
+    "references/image-palettes/sunset-gradient.md": "references/image-palettes__sunset-gradient.md",
+    "references/image-palettes/tech-neon.md": "references/image-palettes__tech-neon.md",
+    "references/image-palettes/vivid-launch.md": "references/image-palettes__vivid-launch.md",
+    "references/image-palettes/warm-earth.md": "references/image-palettes__warm-earth.md",
+    "references/image-renderings/3d-isometric.md": "references/image-renderings__3d-isometric.md",
+    "references/image-renderings/_index.md": "references/image-renderings___index.md",
+    "references/image-renderings/blueprint.md": "references/image-renderings__blueprint.md",
+    "references/image-renderings/chalkboard.md": "references/image-renderings__chalkboard.md",
+    "references/image-renderings/corporate-photo.md": "references/image-renderings__corporate-photo.md",
+    "references/image-renderings/digital-dashboard.md": "references/image-renderings__digital-dashboard.md",
+    "references/image-renderings/editorial.md": "references/image-renderings__editorial.md",
+    "references/image-renderings/fantasy-animation.md": "references/image-renderings__fantasy-animation.md",
+    "references/image-renderings/flat.md": "references/image-renderings__flat.md",
+    "references/image-renderings/glassmorphism.md": "references/image-renderings__glassmorphism.md",
+    "references/image-renderings/ink-notes.md": "references/image-renderings__ink-notes.md",
+    "references/image-renderings/minimalist-swiss.md": "references/image-renderings__minimalist-swiss.md",
+    "references/image-renderings/nature.md": "references/image-renderings__nature.md",
+    "references/image-renderings/paper-cut.md": "references/image-renderings__paper-cut.md",
+    "references/image-renderings/pixel-art.md": "references/image-renderings__pixel-art.md",
+    "references/image-renderings/screen-print.md": "references/image-renderings__screen-print.md",
+    "references/image-renderings/sketch-notes.md": "references/image-renderings__sketch-notes.md",
+    "references/image-renderings/vector-illustration.md": "references/image-renderings__vector-illustration.md",
+    "references/image-renderings/vintage-poster.md": "references/image-renderings__vintage-poster.md",
+    "references/image-renderings/warm-scene.md": "references/image-renderings__warm-scene.md",
+    "references/image-renderings/watercolor.md": "references/image-renderings__watercolor.md",
+    "references/image-searcher.md": "references/image-searcher.md",
+    "references/image-type-templates/_index.md": "references/image-type-templates___index.md",
+    "references/image-type-templates/comparison.md": "references/image-type-templates__comparison.md",
+    "references/image-type-templates/cycle.md": "references/image-type-templates__cycle.md",
+    "references/image-type-templates/flowchart.md": "references/image-type-templates__flowchart.md",
+    "references/image-type-templates/framework.md": "references/image-type-templates__framework.md",
+    "references/image-type-templates/funnel.md": "references/image-type-templates__funnel.md",
+    "references/image-type-templates/infographic.md": "references/image-type-templates__infographic.md",
+    "references/image-type-templates/map.md": "references/image-type-templates__map.md",
+    "references/image-type-templates/matrix.md": "references/image-type-templates__matrix.md",
+    "references/image-type-templates/pyramid.md": "references/image-type-templates__pyramid.md",
+    "references/image-type-templates/scene.md": "references/image-type-templates__scene.md",
+    "references/image-type-templates/timeline.md": "references/image-type-templates__timeline.md",
+    "references/modes/_index.md": "references/modes___index.md",
+    "references/modes/briefing.md": "references/modes__briefing.md",
+    "references/modes/instructional.md": "references/modes__instructional.md",
+    "references/modes/narrative.md": "references/modes__narrative.md",
+    "references/modes/pyramid.md": "references/modes__pyramid.md",
+    "references/modes/showcase.md": "references/modes__showcase.md",
+    "references/native-data-interface.md": "references/native-data-interface.md",
+    "references/native-formula.md": "references/native-formula.md",
+    "references/native-hyperlinks.md": "references/native-hyperlinks.md",
+    "references/native-shape-authoring.md": "references/native-shape-authoring.md",
+    "references/pptx-structure-interface.md": "references/pptx-structure-interface.md",
+    "references/preset-shape-vocabulary.md": "references/preset-shape-vocabulary.md",
+    "references/semantic-svg.md": "references/semantic-svg.md",
+    "references/shared-standards-core.md": "references/shared-standards-core.md",
+    "references/shared-standards.md": "references/shared-standards.md",
+    "references/strategist-image.md": "references/strategist-image.md",
+    "references/strategist-template.md": "references/strategist-template.md",
+    "references/strategist.md": "references/strategist.md",
+    "references/svg-effects.md": "references/svg-effects.md",
+    "references/svg-image-embedding.md": "references/svg-image-embedding.md",
+    "references/template-designer.md": "references/template-designer.md",
+    "references/topology-assembly.md": "references/topology-assembly.md",
+    "references/video-design.md": "references/video-design.md",
+    "references/visual-review.md": "references/visual-review.md",
+    "references/visual-styles/_index.md": "references/visual-styles___index.md",
+    "references/visual-styles/blueprint.md": "references/visual-styles__blueprint.md",
+    "references/visual-styles/brutalist.md": "references/visual-styles__brutalist.md",
+    "references/visual-styles/chalkboard.md": "references/visual-styles__chalkboard.md",
+    "references/visual-styles/dark-tech.md": "references/visual-styles__dark-tech.md",
+    "references/visual-styles/data-journalism.md": "references/visual-styles__data-journalism.md",
+    "references/visual-styles/editorial.md": "references/visual-styles__editorial.md",
+    "references/visual-styles/glassmorphism.md": "references/visual-styles__glassmorphism.md",
+    "references/visual-styles/ink-notes.md": "references/visual-styles__ink-notes.md",
+    "references/visual-styles/ink-wash.md": "references/visual-styles__ink-wash.md",
+    "references/visual-styles/memphis.md": "references/visual-styles__memphis.md",
+    "references/visual-styles/paper-cut.md": "references/visual-styles__paper-cut.md",
+    "references/visual-styles/photo-editorial.md": "references/visual-styles__photo-editorial.md",
+    "references/visual-styles/pixel-art.md": "references/visual-styles__pixel-art.md",
+    "references/visual-styles/sketch-notes.md": "references/visual-styles__sketch-notes.md",
+    "references/visual-styles/soft-rounded.md": "references/visual-styles__soft-rounded.md",
+    "references/visual-styles/swiss-minimal.md": "references/visual-styles__swiss-minimal.md",
+    "references/visual-styles/vintage-poster.md": "references/visual-styles__vintage-poster.md",
+    "references/visual-styles/zine.md": "references/visual-styles__zine.md",
+    "references/workbuddy-delivery.md": "references/workbuddy-delivery.md",
+    "references/中文能力范围.md": "references/中文能力范围.md",
+    "requirements-core.txt": "requirements-core.txt",
+    "requirements.txt": "requirements.txt",
+    "scripts/README.md": "scripts/README.md",
+    "scripts/analyze_images.py": "scripts/analyze_images.py",
+    "scripts/animation_config.py": "scripts/animation_config.py",
+    "scripts/authoring_roundtrip.py": "scripts/authoring_roundtrip.py",
+    "scripts/batch_validate.py": "scripts/batch_validate.py",
+    "scripts/beautify_identity.py": "scripts/beautify_identity.py",
+    "scripts/beautify_inventory.py": "scripts/beautify_inventory.py",
+    "scripts/bootstrap_runtime.py": "scripts/bootstrap_runtime.py",
+    "scripts/chart_recall.py": "scripts/chart_recall.py",
+    "scripts/check_annotations.py": "scripts/check_annotations.py",
+    "scripts/compact_svg_coordinates.py": "scripts/compact_svg_coordinates.py",
+    "scripts/compact_svg_styles.py": "scripts/compact_svg_styles.py",
+    "scripts/config.py": "scripts/config.py",
+    "scripts/confirm_ui/__init__.py": "scripts/confirm_ui____init__.py",
+    "scripts/confirm_ui/server.py": "scripts/confirm_ui__server.py",
+    "scripts/confirm_ui/static/app.js": "scripts/confirm_ui__static__app.js",
+    "scripts/confirm_ui/static/catalogs.json": "scripts/confirm_ui__static__catalogs.json",
+    "scripts/confirm_ui/static/index.html": "scripts/confirm_ui__static__index.html",
+    "scripts/confirm_ui/static/style.css": "scripts/confirm_ui__static__style.css",
+    "scripts/confirm_ui/static/style_previews/blueprint.svg": "scripts/confirm_ui__static__style_previews__blueprint.svg",
+    "scripts/confirm_ui/static/style_previews/brutalist.svg": "scripts/confirm_ui__static__style_previews__brutalist.svg",
+    "scripts/confirm_ui/static/style_previews/chalkboard.svg": "scripts/confirm_ui__static__style_previews__chalkboard.svg",
+    "scripts/confirm_ui/static/style_previews/dark-tech.svg": "scripts/confirm_ui__static__style_previews__dark-tech.svg",
+    "scripts/confirm_ui/static/style_previews/data-journalism.svg": "scripts/confirm_ui__static__style_previews__data-journalism.svg",
+    "scripts/confirm_ui/static/style_previews/editorial.svg": "scripts/confirm_ui__static__style_previews__editorial.svg",
+    "scripts/confirm_ui/static/style_previews/glassmorphism.svg": "scripts/confirm_ui__static__style_previews__glassmorphism.svg",
+    "scripts/confirm_ui/static/style_previews/ink-notes.svg": "scripts/confirm_ui__static__style_previews__ink-notes.svg",
+    "scripts/confirm_ui/static/style_previews/ink-wash.svg": "scripts/confirm_ui__static__style_previews__ink-wash.svg",
+    "scripts/confirm_ui/static/style_previews/memphis.svg": "scripts/confirm_ui__static__style_previews__memphis.svg",
+    "scripts/confirm_ui/static/style_previews/paper-cut.svg": "scripts/confirm_ui__static__style_previews__paper-cut.svg",
+    "scripts/confirm_ui/static/style_previews/photo-editorial.svg": "scripts/confirm_ui__static__style_previews__photo-editorial.svg",
+    "scripts/confirm_ui/static/style_previews/pixel-art.svg": "scripts/confirm_ui__static__style_previews__pixel-art.svg",
+    "scripts/confirm_ui/static/style_previews/sketch-notes.svg": "scripts/confirm_ui__static__style_previews__sketch-notes.svg",
+    "scripts/confirm_ui/static/style_previews/soft-rounded.svg": "scripts/confirm_ui__static__style_previews__soft-rounded.svg",
+    "scripts/confirm_ui/static/style_previews/swiss-minimal.svg": "scripts/confirm_ui__static__style_previews__swiss-minimal.svg",
+    "scripts/confirm_ui/static/style_previews/vintage-poster.svg": "scripts/confirm_ui__static__style_previews__vintage-poster.svg",
+    "scripts/confirm_ui/static/style_previews/zine.svg": "scripts/confirm_ui__static__style_previews__zine.svg",
+    "scripts/console_encoding.py": "scripts/console_encoding.py",
+    "scripts/docs/advanced-image-motion-smoke.md": "scripts/docs__advanced-image-motion-smoke.md",
+    "scripts/docs/chart-recall.md": "scripts/docs__chart-recall.md",
+    "scripts/docs/confirm_ui.md": "scripts/docs__confirm_ui.md",
+    "scripts/docs/conversion.md": "scripts/docs__conversion.md",
+    "scripts/docs/image.md": "scripts/docs__image.md",
+    "scripts/docs/mask-gradient-smoke.md": "scripts/docs__mask-gradient-smoke.md",
+    "scripts/docs/multilingual-text-smoke.md": "scripts/docs__multilingual-text-smoke.md",
+    "scripts/docs/narration.md": "scripts/docs__narration.md",
+    "scripts/docs/pptx-animations.md": "scripts/docs__pptx-animations.md",
+    "scripts/docs/pptx-transitions.md": "scripts/docs__pptx-transitions.md",
+    "scripts/docs/project.md": "scripts/docs__project.md",
+    "scripts/docs/prompt_audit.md": "scripts/docs__prompt_audit.md",
+    "scripts/docs/svg-contract.md": "scripts/docs__svg-contract.md",
+    "scripts/docs/svg-pipeline.md": "scripts/docs__svg-pipeline.md",
+    "scripts/docs/svg_editor.md": "scripts/docs__svg_editor.md",
+    "scripts/docs/template-tools.md": "scripts/docs__template-tools.md",
+    "scripts/docs/troubleshooting.md": "scripts/docs__troubleshooting.md",
+    "scripts/docs/update_spec.md": "scripts/docs__update_spec.md",
+    "scripts/docs/video-motion-plan.md": "scripts/docs__video-motion-plan.md",
+    "scripts/docs/visualization-recall.md": "scripts/docs__visualization-recall.md",
+    "scripts/error_helper.py": "scripts/error_helper.py",
+    "scripts/extract_svg_assets.py": "scripts/extract_svg_assets.py",
+    "scripts/extract_svg_pictures.py": "scripts/extract_svg_pictures.py",
+    "scripts/finalize_svg.py": "scripts/finalize_svg.py",
+    "scripts/gemini_watermark_remover.py": "scripts/gemini_watermark_remover.py",
+    "scripts/generate_examples_index.py": "scripts/generate_examples_index.py",
+    "scripts/hyperlink_contract.py": "scripts/hyperlink_contract.py",
+    "scripts/icon_sync.py": "scripts/icon_sync.py",
+    "scripts/image_backends/__init__.py": "scripts/image_backends____init__.py",
+    "scripts/image_backends/backend_bfl.py": "scripts/image_backends__backend_bfl.py",
+    "scripts/image_backends/backend_common.py": "scripts/image_backends__backend_common.py",
+    "scripts/image_backends/backend_fal.py": "scripts/image_backends__backend_fal.py",
+    "scripts/image_backends/backend_gemini.py": "scripts/image_backends__backend_gemini.py",
+    "scripts/image_backends/backend_ideogram.py": "scripts/image_backends__backend_ideogram.py",
+    "scripts/image_backends/backend_minimax.py": "scripts/image_backends__backend_minimax.py",
+    "scripts/image_backends/backend_modelscope.py": "scripts/image_backends__backend_modelscope.py",
+    "scripts/image_backends/backend_openai.py": "scripts/image_backends__backend_openai.py",
+    "scripts/image_backends/backend_openrouter.py": "scripts/image_backends__backend_openrouter.py",
+    "scripts/image_backends/backend_qwen.py": "scripts/image_backends__backend_qwen.py",
+    "scripts/image_backends/backend_replicate.py": "scripts/image_backends__backend_replicate.py",
+    "scripts/image_backends/backend_siliconflow.py": "scripts/image_backends__backend_siliconflow.py",
+    "scripts/image_backends/backend_stability.py": "scripts/image_backends__backend_stability.py",
+    "scripts/image_backends/backend_volcengine.py": "scripts/image_backends__backend_volcengine.py",
+    "scripts/image_backends/backend_zhipu.py": "scripts/image_backends__backend_zhipu.py",
+    "scripts/image_gen.py": "scripts/image_gen.py",
+    "scripts/image_search.py": "scripts/image_search.py",
+    "scripts/image_sources/__init__.py": "scripts/image_sources____init__.py",
+    "scripts/image_sources/provider_common.py": "scripts/image_sources__provider_common.py",
+    "scripts/image_sources/provider_openverse.py": "scripts/image_sources__provider_openverse.py",
+    "scripts/image_sources/provider_pexels.py": "scripts/image_sources__provider_pexels.py",
+    "scripts/image_sources/provider_pixabay.py": "scripts/image_sources__provider_pixabay.py",
+    "scripts/image_sources/provider_wikimedia.py": "scripts/image_sources__provider_wikimedia.py",
+    "scripts/image_treat.py": "scripts/image_treat.py",
+    "scripts/language_tags.py": "scripts/language_tags.py",
+    "scripts/latex_render.py": "scripts/latex_render.py",
+    "scripts/mirror_template_materialize.py": "scripts/mirror_template_materialize.py",
+    "scripts/narration_sync.py": "scripts/narration_sync.py",
+    "scripts/native_payloads.py": "scripts/native_payloads.py",
+    "scripts/notes_to_audio.py": "scripts/notes_to_audio.py",
+    "scripts/package_integrity.py": "scripts/package_integrity.py",
+    "scripts/page_context.py": "scripts/page_context.py",
+    "scripts/powerpoint_video.py": "scripts/powerpoint_video.py",
+    "scripts/pptx_animation_presets.json": "scripts/pptx_animation_presets.json",
+    "scripts/pptx_animations.py": "scripts/pptx_animations.py",
+    "scripts/pptx_delivery_check.py": "scripts/pptx_delivery_check.py",
+    "scripts/pptx_effects.py": "scripts/pptx_effects.py",
+    "scripts/pptx_embedded_fonts.py": "scripts/pptx_embedded_fonts.py",
+    "scripts/pptx_gradients.py": "scripts/pptx_gradients.py",
+    "scripts/pptx_intake.py": "scripts/pptx_intake.py",
+    "scripts/pptx_ooxml/__init__.py": "scripts/pptx_ooxml____init__.py",
+    "scripts/pptx_ooxml/analyzer.py": "scripts/pptx_ooxml__analyzer.py",
+    "scripts/pptx_ooxml/chart_read.py": "scripts/pptx_ooxml__chart_read.py",
+    "scripts/pptx_ooxml/clone.py": "scripts/pptx_ooxml__clone.py",
+    "scripts/pptx_ooxml/diagram_read.py": "scripts/pptx_ooxml__diagram_read.py",
+    "scripts/pptx_ooxml/edit_safety.py": "scripts/pptx_ooxml__edit_safety.py",
+    "scripts/pptx_ooxml/ooxml.py": "scripts/pptx_ooxml__ooxml.py",
+    "scripts/pptx_ooxml/package.py": "scripts/pptx_ooxml__package.py",
+    "scripts/pptx_opc_validation.py": "scripts/pptx_opc_validation.py",
+    "scripts/pptx_shapes/__init__.py": "scripts/pptx_shapes____init__.py",
+    "scripts/pptx_shapes/data/presetShapeDefinitions.xml": "scripts/pptx_shapes__data__presetShapeDefinitions.xml",
+    "scripts/pptx_shapes/data/presetShapeSemantics.json": "scripts/pptx_shapes__data__presetShapeSemantics.json",
+    "scripts/pptx_shapes/data/shape_type_values.txt": "scripts/pptx_shapes__data__shape_type_values.txt",
+    "scripts/pptx_shapes/errors.py": "scripts/pptx_shapes__errors.py",
+    "scripts/pptx_shapes/formula.py": "scripts/pptx_shapes__formula.py",
+    "scripts/pptx_shapes/loader.py": "scripts/pptx_shapes__loader.py",
+    "scripts/pptx_shapes/models.py": "scripts/pptx_shapes__models.py",
+    "scripts/pptx_shapes/registry.py": "scripts/pptx_shapes__registry.py",
+    "scripts/pptx_shapes/semantic_hash.py": "scripts/pptx_shapes__semantic_hash.py",
+    "scripts/pptx_shapes/semantics.py": "scripts/pptx_shapes__semantics.py",
+    "scripts/pptx_shapes/xml_safety.py": "scripts/pptx_shapes__xml_safety.py",
+    "scripts/pptx_template_import.py": "scripts/pptx_template_import.py",
+    "scripts/pptx_to_svg/__init__.py": "scripts/pptx_to_svg____init__.py",
+    "scripts/pptx_to_svg/animation_import.py": "scripts/pptx_to_svg__animation_import.py",
+    "scripts/pptx_to_svg/chart_to_svg.py": "scripts/pptx_to_svg__chart_to_svg.py",
+    "scripts/pptx_to_svg/chartex_to_svg.py": "scripts/pptx_to_svg__chartex_to_svg.py",
+    "scripts/pptx_to_svg/color_resolver.py": "scripts/pptx_to_svg__color_resolver.py",
+    "scripts/pptx_to_svg/converter.py": "scripts/pptx_to_svg__converter.py",
+    "scripts/pptx_to_svg/custgeom_to_svg.py": "scripts/pptx_to_svg__custgeom_to_svg.py",
+    "scripts/pptx_to_svg/effect_to_svg.py": "scripts/pptx_to_svg__effect_to_svg.py",
+    "scripts/pptx_to_svg/emu_units.py": "scripts/pptx_to_svg__emu_units.py",
+    "scripts/pptx_to_svg/fill_to_svg.py": "scripts/pptx_to_svg__fill_to_svg.py",
+    "scripts/pptx_to_svg/formula_import.py": "scripts/pptx_to_svg__formula_import.py",
+    "scripts/pptx_to_svg/hyperlinks.py": "scripts/pptx_to_svg__hyperlinks.py",
+    "scripts/pptx_to_svg/import_diagnostics.py": "scripts/pptx_to_svg__import_diagnostics.py",
+    "scripts/pptx_to_svg/ln_to_svg.py": "scripts/pptx_to_svg__ln_to_svg.py",
+    "scripts/pptx_to_svg/normalized_chart_svg.py": "scripts/pptx_to_svg__normalized_chart_svg.py",
+    "scripts/pptx_to_svg/notes_import.py": "scripts/pptx_to_svg__notes_import.py",
+    "scripts/pptx_to_svg/ooxml_loader.py": "scripts/pptx_to_svg__ooxml_loader.py",
+    "scripts/pptx_to_svg/pic_to_svg.py": "scripts/pptx_to_svg__pic_to_svg.py",
+    "scripts/pptx_to_svg/preset_authoring.py": "scripts/pptx_to_svg__preset_authoring.py",
+    "scripts/pptx_to_svg/preset_registry_to_svg.py": "scripts/pptx_to_svg__preset_registry_to_svg.py",
+    "scripts/pptx_to_svg/preset_svg_markup.py": "scripts/pptx_to_svg__preset_svg_markup.py",
+    "scripts/pptx_to_svg/prstgeom_to_svg.py": "scripts/pptx_to_svg__prstgeom_to_svg.py",
+    "scripts/pptx_to_svg/shape_walker.py": "scripts/pptx_to_svg__shape_walker.py",
+    "scripts/pptx_to_svg/slide_to_svg.py": "scripts/pptx_to_svg__slide_to_svg.py",
+    "scripts/pptx_to_svg/tbl_to_svg.py": "scripts/pptx_to_svg__tbl_to_svg.py",
+    "scripts/pptx_to_svg/transition_import.py": "scripts/pptx_to_svg__transition_import.py",
+    "scripts/pptx_to_svg/txbody_to_svg.py": "scripts/pptx_to_svg__txbody_to_svg.py",
+    "scripts/pptx_to_svg.py": "scripts/pptx_to_svg.py",
+    "scripts/pptx_transitions.py": "scripts/pptx_transitions.py",
+    "scripts/pptx_workspace.py": "scripts/pptx_workspace.py",
+    "scripts/preset_shape_svg.py": "scripts/preset_shape_svg.py",
+    "scripts/project_management/__init__.py": "scripts/project_management____init__.py",
+    "scripts/project_management/cli.py": "scripts/project_management__cli.py",
+    "scripts/project_management/page_context.py": "scripts/project_management__page_context.py",
+    "scripts/project_management/paths.py": "scripts/project_management__paths.py",
+    "scripts/project_management/project_specs.py": "scripts/project_management__project_specs.py",
+    "scripts/project_manager.py": "scripts/project_manager.py",
+    "scripts/project_specs.py": "scripts/project_specs.py",
+    "scripts/project_utils.py": "scripts/project_utils.py",
+    "scripts/prompt_audit.py": "scripts/prompt_audit.py",
+    "scripts/prompt_audit_manifest.json": "scripts/prompt_audit_manifest.json",
+    "scripts/register_template.py": "scripts/register_template.py",
+    "scripts/resource_paths.py": "scripts/resource_paths.py",
+    "scripts/rotate_images.py": "scripts/rotate_images.py",
+    "scripts/run_workbuddy.py": "scripts/run_workbuddy.py",
+    "scripts/semantic_table.py": "scripts/semantic_table.py",
+    "scripts/server_common.py": "scripts/server_common.py",
+    "scripts/shape_boolean_svg.py": "scripts/shape_boolean_svg.py",
+    "scripts/slice_images.py": "scripts/slice_images.py",
+    "scripts/slide_roster.py": "scripts/slide_roster.py",
+    "scripts/sound_sync.py": "scripts/sound_sync.py",
+    "scripts/source_to_md/_batch.py": "scripts/source_to_md___batch.py",
+    "scripts/source_to_md/_conversion_profile.py": "scripts/source_to_md___conversion_profile.py",
+    "scripts/source_to_md/_dispatcher.py": "scripts/source_to_md___dispatcher.py",
+    "scripts/source_to_md/doc_to_md.py": "scripts/source_to_md__doc_to_md.py",
+    "scripts/source_to_md/excel_to_md.py": "scripts/source_to_md__excel_to_md.py",
+    "scripts/source_to_md/pdf_to_md.py": "scripts/source_to_md__pdf_to_md.py",
+    "scripts/source_to_md/ppt_to_md.py": "scripts/source_to_md__ppt_to_md.py",
+    "scripts/source_to_md/web_to_md.py": "scripts/source_to_md__web_to_md.py",
+    "scripts/source_to_md.py": "scripts/source_to_md.py",
+    "scripts/stamp_native_fallbacks.py": "scripts/stamp_native_fallbacks.py",
+    "scripts/svg_authoring_contract.py": "scripts/svg_authoring_contract.py",
+    "scripts/svg_authoring_view.py": "scripts/svg_authoring_view.py",
+    "scripts/svg_compatibility.py": "scripts/svg_compatibility.py",
+    "scripts/svg_editor/__init__.py": "scripts/svg_editor____init__.py",
+    "scripts/svg_editor/annotations.py": "scripts/svg_editor__annotations.py",
+    "scripts/svg_editor/server.py": "scripts/svg_editor__server.py",
+    "scripts/svg_editor/static/app.js": "scripts/svg_editor__static__app.js",
+    "scripts/svg_editor/static/index.html": "scripts/svg_editor__static__index.html",
+    "scripts/svg_editor/static/style.css": "scripts/svg_editor__static__style.css",
+    "scripts/svg_finalize/__init__.py": "scripts/svg_finalize____init__.py",
+    "scripts/svg_finalize/align_embed_images.py": "scripts/svg_finalize__align_embed_images.py",
+    "scripts/svg_finalize/crop_images.py": "scripts/svg_finalize__crop_images.py",
+    "scripts/svg_finalize/embed_icons.py": "scripts/svg_finalize__embed_icons.py",
+    "scripts/svg_finalize/embed_images.py": "scripts/svg_finalize__embed_images.py",
+    "scripts/svg_finalize/fix_image_aspect.py": "scripts/svg_finalize__fix_image_aspect.py",
+    "scripts/svg_finalize/flatten_tspan.py": "scripts/svg_finalize__flatten_tspan.py",
+    "scripts/svg_finalize/svg_rect_to_path.py": "scripts/svg_finalize__svg_rect_to_path.py",
+    "scripts/svg_position_calculator.py": "scripts/svg_position_calculator.py",
+    "scripts/svg_quality/__init__.py": "scripts/svg_quality____init__.py",
+    "scripts/svg_quality/checker.py": "scripts/svg_quality__checker.py",
+    "scripts/svg_quality/cli.py": "scripts/svg_quality__cli.py",
+    "scripts/svg_quality/svg_contracts.py": "scripts/svg_quality__svg_contracts.py",
+    "scripts/svg_quality/xml_support.py": "scripts/svg_quality__xml_support.py",
+    "scripts/svg_quality_checker.py": "scripts/svg_quality_checker.py",
+    "scripts/svg_to_pptx/__init__.py": "scripts/svg_to_pptx____init__.py",
+    "scripts/svg_to_pptx/animation_config.py": "scripts/svg_to_pptx__animation_config.py",
+    "scripts/svg_to_pptx/canvas_contract.py": "scripts/svg_to_pptx__canvas_contract.py",
+    "scripts/svg_to_pptx/drawingml/__init__.py": "scripts/svg_to_pptx__drawingml____init__.py",
+    "scripts/svg_to_pptx/drawingml/context.py": "scripts/svg_to_pptx__drawingml__context.py",
+    "scripts/svg_to_pptx/drawingml/converter.py": "scripts/svg_to_pptx__drawingml__converter.py",
+    "scripts/svg_to_pptx/drawingml/elements.py": "scripts/svg_to_pptx__drawingml__elements.py",
+    "scripts/svg_to_pptx/drawingml/hyperlinks.py": "scripts/svg_to_pptx__drawingml__hyperlinks.py",
+    "scripts/svg_to_pptx/drawingml/paths.py": "scripts/svg_to_pptx__drawingml__paths.py",
+    "scripts/svg_to_pptx/drawingml/styles.py": "scripts/svg_to_pptx__drawingml__styles.py",
+    "scripts/svg_to_pptx/drawingml/text_properties.py": "scripts/svg_to_pptx__drawingml__text_properties.py",
+    "scripts/svg_to_pptx/drawingml/theme_colors.py": "scripts/svg_to_pptx__drawingml__theme_colors.py",
+    "scripts/svg_to_pptx/drawingml/theme_fonts.py": "scripts/svg_to_pptx__drawingml__theme_fonts.py",
+    "scripts/svg_to_pptx/drawingml/utils.py": "scripts/svg_to_pptx__drawingml__utils.py",
+    "scripts/svg_to_pptx/geometry_properties.py": "scripts/svg_to_pptx__geometry_properties.py",
+    "scripts/svg_to_pptx/native_objects/__init__.py": "scripts/svg_to_pptx__native_objects____init__.py",
+    "scripts/svg_to_pptx/native_objects/chart_data.py": "scripts/svg_to_pptx__native_objects__chart_data.py",
+    "scripts/svg_to_pptx/native_objects/chart_style.py": "scripts/svg_to_pptx__native_objects__chart_style.py",
+    "scripts/svg_to_pptx/native_objects/chart_xml.py": "scripts/svg_to_pptx__native_objects__chart_xml.py",
+    "scripts/svg_to_pptx/native_objects/chartex.py": "scripts/svg_to_pptx__native_objects__chartex.py",
+    "scripts/svg_to_pptx/native_objects/fallback_hash.py": "scripts/svg_to_pptx__native_objects__fallback_hash.py",
+    "scripts/svg_to_pptx/native_objects/formula.py": "scripts/svg_to_pptx__native_objects__formula.py",
+    "scripts/svg_to_pptx/native_objects/formula_ast.py": "scripts/svg_to_pptx__native_objects__formula_ast.py",
+    "scripts/svg_to_pptx/native_objects/formula_compiler.py": "scripts/svg_to_pptx__native_objects__formula_compiler.py",
+    "scripts/svg_to_pptx/native_objects/formula_omml.py": "scripts/svg_to_pptx__native_objects__formula_omml.py",
+    "scripts/svg_to_pptx/native_objects/formula_parser.py": "scripts/svg_to_pptx__native_objects__formula_parser.py",
+    "scripts/svg_to_pptx/native_objects/formula_profile.py": "scripts/svg_to_pptx__native_objects__formula_profile.py",
+    "scripts/svg_to_pptx/native_objects/formula_run_properties.py": "scripts/svg_to_pptx__native_objects__formula_run_properties.py",
+    "scripts/svg_to_pptx/native_objects/inline_formula.py": "scripts/svg_to_pptx__native_objects__inline_formula.py",
+    "scripts/svg_to_pptx/native_objects/marker_attributes.py": "scripts/svg_to_pptx__native_objects__marker_attributes.py",
+    "scripts/svg_to_pptx/native_objects/marker_common.py": "scripts/svg_to_pptx__native_objects__marker_common.py",
+    "scripts/svg_to_pptx/native_objects/marker_status.py": "scripts/svg_to_pptx__native_objects__marker_status.py",
+    "scripts/svg_to_pptx/native_objects/table.py": "scripts/svg_to_pptx__native_objects__table.py",
+    "scripts/svg_to_pptx/native_objects/workbook.py": "scripts/svg_to_pptx__native_objects__workbook.py",
+    "scripts/svg_to_pptx/pptx_package/__init__.py": "scripts/svg_to_pptx__pptx_package____init__.py",
+    "scripts/svg_to_pptx/pptx_package/builder.py": "scripts/svg_to_pptx__pptx_package__builder.py",
+    "scripts/svg_to_pptx/pptx_package/cli.py": "scripts/svg_to_pptx__pptx_package__cli.py",
+    "scripts/svg_to_pptx/pptx_package/dimensions.py": "scripts/svg_to_pptx__pptx_package__dimensions.py",
+    "scripts/svg_to_pptx/pptx_package/discovery.py": "scripts/svg_to_pptx__pptx_package__discovery.py",
+    "scripts/svg_to_pptx/pptx_package/media.py": "scripts/svg_to_pptx__pptx_package__media.py",
+    "scripts/svg_to_pptx/pptx_package/narration.py": "scripts/svg_to_pptx__pptx_package__narration.py",
+    "scripts/svg_to_pptx/pptx_package/notes.py": "scripts/svg_to_pptx__pptx_package__notes.py",
+    "scripts/svg_to_pptx/pptx_package/slide_xml.py": "scripts/svg_to_pptx__pptx_package__slide_xml.py",
+    "scripts/svg_to_pptx/pptx_package/template_structure.py": "scripts/svg_to_pptx__pptx_package__template_structure.py",
+    "scripts/svg_to_pptx/pptx_package/template_validation.py": "scripts/svg_to_pptx__pptx_package__template_validation.py",
+    "scripts/svg_to_pptx/semantic_markers.py": "scripts/svg_to_pptx__semantic_markers.py",
+    "scripts/svg_to_pptx/shape_boolean.py": "scripts/svg_to_pptx__shape_boolean.py",
+    "scripts/svg_to_pptx/text_outline.py": "scripts/svg_to_pptx__text_outline.py",
+    "scripts/svg_to_pptx/tspan_flattener.py": "scripts/svg_to_pptx__tspan_flattener.py",
+    "scripts/svg_to_pptx/use_expander.py": "scripts/svg_to_pptx__use_expander.py",
+    "scripts/svg_to_pptx.py": "scripts/svg_to_pptx.py",
+    "scripts/template_import/__init__.py": "scripts/template_import____init__.py",
+    "scripts/template_import/manifest.py": "scripts/template_import__manifest.py",
+    "scripts/template_import/native_structure.py": "scripts/template_import__native_structure.py",
+    "scripts/template_preview_pptx.py": "scripts/template_preview_pptx.py",
+    "scripts/template_text_slots.py": "scripts/template_text_slots.py",
+    "scripts/tests/fixtures/native_projection/06_1145_completion.svg": "scripts/tests__fixtures__native_projection__06_1145_completion.svg",
+    "scripts/tests/fixtures/native_projection/07_segment_mix.svg": "scripts/tests__fixtures__native_projection__07_segment_mix.svg",
+    "scripts/tests/fixtures/native_projection/10_competitiveness.svg": "scripts/tests__fixtures__native_projection__10_competitiveness.svg",
+    "scripts/tests/fixtures/native_projection/11_market_space.svg": "scripts/tests__fixtures__native_projection__11_market_space.svg",
+    "scripts/tests/fixtures/native_projection/15_signing_target.svg": "scripts/tests__fixtures__native_projection__15_signing_target.svg",
+    "scripts/tests/fixtures/native_projection/27_business_models.svg": "scripts/tests__fixtures__native_projection__27_business_models.svg",
+    "scripts/tests/fixtures/native_projection/30_risk_matrix.svg": "scripts/tests__fixtures__native_projection__30_risk_matrix.svg",
+    "scripts/tests/fixtures/native_projection/31_power_market.svg": "scripts/tests__fixtures__native_projection__31_power_market.svg",
+    "scripts/tests/test_confirm_ui_design_spec_depth.py": "scripts/tests__test_confirm_ui_design_spec_depth.py",
+    "scripts/tests/test_image_search.py": "scripts/tests__test_image_search.py",
+    "scripts/tests/test_native_chart_table_parity.py": "scripts/tests__test_native_chart_table_parity.py",
+    "scripts/tests/test_slice_images.py": "scripts/tests__test_slice_images.py",
+    "scripts/tests/test_spec_lock_forbidden.py": "scripts/tests__test_spec_lock_forbidden.py",
+    "scripts/tests/test_svg_quality_checker.py": "scripts/tests__test_svg_quality_checker.py",
+    "scripts/tests/test_text_measure.py": "scripts/tests__test_text_measure.py",
+    "scripts/tests/test_update_spec.py": "scripts/tests__test_update_spec.py",
+    "scripts/text_measure.py": "scripts/text_measure.py",
+    "scripts/total_md_split.py": "scripts/total_md_split.py",
+    "scripts/tts_backends/__init__.py": "scripts/tts_backends____init__.py",
+    "scripts/tts_backends/backend_common.py": "scripts/tts_backends__backend_common.py",
+    "scripts/tts_backends/backend_cosyvoice.py": "scripts/tts_backends__backend_cosyvoice.py",
+    "scripts/tts_backends/backend_edge.py": "scripts/tts_backends__backend_edge.py",
+    "scripts/tts_backends/backend_elevenlabs.py": "scripts/tts_backends__backend_elevenlabs.py",
+    "scripts/tts_backends/backend_minimax.py": "scripts/tts_backends__backend_minimax.py",
+    "scripts/tts_backends/backend_qwen.py": "scripts/tts_backends__backend_qwen.py",
+    "scripts/update_spec.py": "scripts/update_spec.py",
+    "scripts/video_motion_plan.py": "scripts/video_motion_plan.py",
+    "scripts/video_sound_mix.py": "scripts/video_sound_mix.py",
+    "scripts/video_subtitles.py": "scripts/video_subtitles.py",
+    "scripts/visual_review.py": "scripts/visual_review.py",
+    "scripts/visualization_catalog.py": "scripts/visualization_catalog.py",
+    "scripts/visualization_recall.py": "scripts/visualization_recall.py",
+    "scripts/workbuddy_fs.py": "scripts/workbuddy_fs.py",
+    "scripts/workbuddy_ppt.py": "scripts/workbuddy_ppt.py",
+    "scripts/workflow_log.py": "scripts/workflow_log.py",
+    "scripts/workflow_transcript.py": "scripts/workflow_transcript.py",
+    "templates/README.md": "templates/README.md",
+    "templates/VISUALIZATION_TEMPLATE_AUTHORING.md": "templates/VISUALIZATION_TEMPLATE_AUTHORING.md",
+    "templates/brands/README.md": "templates/brands__README.md",
+    "templates/brands/brands_index.json": "templates/brands__brands_index.json",
+    "templates/charts/README.md": "templates/charts__README.md",
+    "templates/charts/area_chart.svg": "templates/charts__area_chart.svg",
+    "templates/charts/bar_of_pie_chart.svg": "templates/charts__bar_of_pie_chart.svg",
+    "templates/charts/box_plot_chart.svg": "templates/charts__box_plot_chart.svg",
+    "templates/charts/bubble_chart.svg": "templates/charts__bubble_chart.svg",
+    "templates/charts/bullet_chart.svg": "templates/charts__bullet_chart.svg",
+    "templates/charts/butterfly_chart.svg": "templates/charts__butterfly_chart.svg",
+    "templates/charts/chart-vocabulary.md": "templates/charts__chart-vocabulary.md",
+    "templates/charts/charts_index.json": "templates/charts__charts_index.json",
+    "templates/charts/column_chart.svg": "templates/charts__column_chart.svg",
+    "templates/charts/donut_chart.svg": "templates/charts__donut_chart.svg",
+    "templates/charts/dual_axis_line_chart.svg": "templates/charts__dual_axis_line_chart.svg",
+    "templates/charts/dumbbell_chart.svg": "templates/charts__dumbbell_chart.svg",
+    "templates/charts/funnel_chart.svg": "templates/charts__funnel_chart.svg",
+    "templates/charts/gantt_chart.svg": "templates/charts__gantt_chart.svg",
+    "templates/charts/gauge_chart.svg": "templates/charts__gauge_chart.svg",
+    "templates/charts/grouped_bar_chart.svg": "templates/charts__grouped_bar_chart.svg",
+    "templates/charts/heatmap_chart.svg": "templates/charts__heatmap_chart.svg",
+    "templates/charts/histogram_chart.svg": "templates/charts__histogram_chart.svg",
+    "templates/charts/horizontal_bar_chart.svg": "templates/charts__horizontal_bar_chart.svg",
+    "templates/charts/line_chart.svg": "templates/charts__line_chart.svg",
+    "templates/charts/matrix_2x2.svg": "templates/charts__matrix_2x2.svg",
+    "templates/charts/pareto_chart.svg": "templates/charts__pareto_chart.svg",
+    "templates/charts/pie_chart.svg": "templates/charts__pie_chart.svg",
+    "templates/charts/pie_of_pie_chart.svg": "templates/charts__pie_of_pie_chart.svg",
+    "templates/charts/progress_bar_chart.svg": "templates/charts__progress_bar_chart.svg",
+    "templates/charts/radar_chart.svg": "templates/charts__radar_chart.svg",
+    "templates/charts/sankey_chart.svg": "templates/charts__sankey_chart.svg",
+    "templates/charts/scatter_chart.svg": "templates/charts__scatter_chart.svg",
+    "templates/charts/stacked_area_chart.svg": "templates/charts__stacked_area_chart.svg",
+    "templates/charts/stacked_bar_chart.svg": "templates/charts__stacked_bar_chart.svg",
+    "templates/charts/stock_chart.svg": "templates/charts__stock_chart.svg",
+    "templates/charts/sunburst_chart.svg": "templates/charts__sunburst_chart.svg",
+    "templates/charts/treemap_chart.svg": "templates/charts__treemap_chart.svg",
+    "templates/charts/waterfall_chart.svg": "templates/charts__waterfall_chart.svg",
+    "templates/charts/word_cloud.svg": "templates/charts__word_cloud.svg",
+    "templates/decks/README.md": "templates/decks__README.md",
+    "templates/decks/decks_index.json": "templates/decks__decks_index.json",
+    "templates/design_spec_reference.md": "templates/design_spec_reference.md",
+    "templates/icons/README.md": "templates/icons__README.md",
+    "templates/layouts/README.md": "templates/layouts__README.md",
+    "templates/layouts/editorial_bleed/templates/01_hero_full.svg": "templates/layouts__editorial_bleed__templates__01_hero_full.svg",
+    "templates/layouts/editorial_bleed/templates/02_hero_side_scrim.svg": "templates/layouts__editorial_bleed__templates__02_hero_side_scrim.svg",
+    "templates/layouts/editorial_bleed/templates/03_split_bleed.svg": "templates/layouts__editorial_bleed__templates__03_split_bleed.svg",
+    "templates/layouts/editorial_bleed/templates/04_split_bleed_reverse.svg": "templates/layouts__editorial_bleed__templates__04_split_bleed_reverse.svg",
+    "templates/layouts/editorial_bleed/templates/05_chapter_full.svg": "templates/layouts__editorial_bleed__templates__05_chapter_full.svg",
+    "templates/layouts/editorial_bleed/templates/06_quote_over_image.svg": "templates/layouts__editorial_bleed__templates__06_quote_over_image.svg",
+    "templates/layouts/editorial_bleed/templates/07_triptych.svg": "templates/layouts__editorial_bleed__templates__07_triptych.svg",
+    "templates/layouts/editorial_bleed/templates/08_image_grid_four.svg": "templates/layouts__editorial_bleed__templates__08_image_grid_four.svg",
+    "templates/layouts/editorial_bleed/templates/09_full_statement.svg": "templates/layouts__editorial_bleed__templates__09_full_statement.svg",
+    "templates/layouts/editorial_bleed/templates/10_closing_full.svg": "templates/layouts__editorial_bleed__templates__10_closing_full.svg",
+    "templates/layouts/editorial_bleed/templates/design_spec.md": "templates/layouts__editorial_bleed__templates__design_spec.md",
+    "templates/layouts/layouts_index.json": "templates/layouts__layouts_index.json",
+    "templates/layouts/moments_square/templates/01_cover.svg": "templates/layouts__moments_square__templates__01_cover.svg",
+    "templates/layouts/moments_square/templates/02_statement.svg": "templates/layouts__moments_square__templates__02_statement.svg",
+    "templates/layouts/moments_square/templates/03_title_content.svg": "templates/layouts__moments_square__templates__03_title_content.svg",
+    "templates/layouts/moments_square/templates/04_two_column.svg": "templates/layouts__moments_square__templates__04_two_column.svg",
+    "templates/layouts/moments_square/templates/05_three_row.svg": "templates/layouts__moments_square__templates__05_three_row.svg",
+    "templates/layouts/moments_square/templates/06_image_center.svg": "templates/layouts__moments_square__templates__06_image_center.svg",
+    "templates/layouts/moments_square/templates/07_image_full.svg": "templates/layouts__moments_square__templates__07_image_full.svg",
+    "templates/layouts/moments_square/templates/08_ending.svg": "templates/layouts__moments_square__templates__08_ending.svg",
+    "templates/layouts/moments_square/templates/design_spec.md": "templates/layouts__moments_square__templates__design_spec.md",
+    "templates/layouts/presentation_core/templates/01_title_slide.svg": "templates/layouts__presentation_core__templates__01_title_slide.svg",
+    "templates/layouts/presentation_core/templates/02_title_content.svg": "templates/layouts__presentation_core__templates__02_title_content.svg",
+    "templates/layouts/presentation_core/templates/03_section_header.svg": "templates/layouts__presentation_core__templates__03_section_header.svg",
+    "templates/layouts/presentation_core/templates/04_two_content.svg": "templates/layouts__presentation_core__templates__04_two_content.svg",
+    "templates/layouts/presentation_core/templates/05_comparison.svg": "templates/layouts__presentation_core__templates__05_comparison.svg",
+    "templates/layouts/presentation_core/templates/06_title_only.svg": "templates/layouts__presentation_core__templates__06_title_only.svg",
+    "templates/layouts/presentation_core/templates/07_blank.svg": "templates/layouts__presentation_core__templates__07_blank.svg",
+    "templates/layouts/presentation_core/templates/08_content_caption.svg": "templates/layouts__presentation_core__templates__08_content_caption.svg",
+    "templates/layouts/presentation_core/templates/09_picture_caption.svg": "templates/layouts__presentation_core__templates__09_picture_caption.svg",
+    "templates/layouts/presentation_core/templates/10_hero_statement.svg": "templates/layouts__presentation_core__templates__10_hero_statement.svg",
+    "templates/layouts/presentation_core/templates/11_editorial_split.svg": "templates/layouts__presentation_core__templates__11_editorial_split.svg",
+    "templates/layouts/presentation_core/templates/12_three_card.svg": "templates/layouts__presentation_core__templates__12_three_card.svg",
+    "templates/layouts/presentation_core/templates/13_kpi_dashboard.svg": "templates/layouts__presentation_core__templates__13_kpi_dashboard.svg",
+    "templates/layouts/presentation_core/templates/14_process_timeline.svg": "templates/layouts__presentation_core__templates__14_process_timeline.svg",
+    "templates/layouts/presentation_core/templates/15_data_story.svg": "templates/layouts__presentation_core__templates__15_data_story.svg",
+    "templates/layouts/presentation_core/templates/16_title_picture.svg": "templates/layouts__presentation_core__templates__16_title_picture.svg",
+    "templates/layouts/presentation_core/templates/17_two_picture_caption.svg": "templates/layouts__presentation_core__templates__17_two_picture_caption.svg",
+    "templates/layouts/presentation_core/templates/18_screenshot_focus.svg": "templates/layouts__presentation_core__templates__18_screenshot_focus.svg",
+    "templates/layouts/presentation_core/templates/19_chart_insight.svg": "templates/layouts__presentation_core__templates__19_chart_insight.svg",
+    "templates/layouts/presentation_core/templates/20_table_summary.svg": "templates/layouts__presentation_core__templates__20_table_summary.svg",
+    "templates/layouts/presentation_core/templates/design_spec.md": "templates/layouts__presentation_core__templates__design_spec.md",
+    "templates/layouts/presentation_core_43/templates/01_title_slide.svg": "templates/layouts__presentation_core_43__templates__01_title_slide.svg",
+    "templates/layouts/presentation_core_43/templates/02_title_content.svg": "templates/layouts__presentation_core_43__templates__02_title_content.svg",
+    "templates/layouts/presentation_core_43/templates/03_section_header.svg": "templates/layouts__presentation_core_43__templates__03_section_header.svg",
+    "templates/layouts/presentation_core_43/templates/04_two_content.svg": "templates/layouts__presentation_core_43__templates__04_two_content.svg",
+    "templates/layouts/presentation_core_43/templates/05_comparison.svg": "templates/layouts__presentation_core_43__templates__05_comparison.svg",
+    "templates/layouts/presentation_core_43/templates/06_title_only.svg": "templates/layouts__presentation_core_43__templates__06_title_only.svg",
+    "templates/layouts/presentation_core_43/templates/07_blank.svg": "templates/layouts__presentation_core_43__templates__07_blank.svg",
+    "templates/layouts/presentation_core_43/templates/08_content_caption.svg": "templates/layouts__presentation_core_43__templates__08_content_caption.svg",
+    "templates/layouts/presentation_core_43/templates/09_picture_caption.svg": "templates/layouts__presentation_core_43__templates__09_picture_caption.svg",
+    "templates/layouts/presentation_core_43/templates/10_hero_statement.svg": "templates/layouts__presentation_core_43__templates__10_hero_statement.svg",
+    "templates/layouts/presentation_core_43/templates/11_three_card.svg": "templates/layouts__presentation_core_43__templates__11_three_card.svg",
+    "templates/layouts/presentation_core_43/templates/12_kpi_grid.svg": "templates/layouts__presentation_core_43__templates__12_kpi_grid.svg",
+    "templates/layouts/presentation_core_43/templates/13_process_timeline.svg": "templates/layouts__presentation_core_43__templates__13_process_timeline.svg",
+    "templates/layouts/presentation_core_43/templates/14_stacked_split.svg": "templates/layouts__presentation_core_43__templates__14_stacked_split.svg",
+    "templates/layouts/presentation_core_43/templates/15_chart_insight.svg": "templates/layouts__presentation_core_43__templates__15_chart_insight.svg",
+    "templates/layouts/presentation_core_43/templates/16_table_summary.svg": "templates/layouts__presentation_core_43__templates__16_table_summary.svg",
+    "templates/layouts/presentation_core_43/templates/design_spec.md": "templates/layouts__presentation_core_43__templates__design_spec.md",
+    "templates/layouts/report_core/templates/01_cover.svg": "templates/layouts__report_core__templates__01_cover.svg",
+    "templates/layouts/report_core/templates/02_section_divider.svg": "templates/layouts__report_core__templates__02_section_divider.svg",
+    "templates/layouts/report_core/templates/03_agenda.svg": "templates/layouts__report_core__templates__03_agenda.svg",
+    "templates/layouts/report_core/templates/04_title_content.svg": "templates/layouts__report_core__templates__04_title_content.svg",
+    "templates/layouts/report_core/templates/05_two_content.svg": "templates/layouts__report_core__templates__05_two_content.svg",
+    "templates/layouts/report_core/templates/06_three_block.svg": "templates/layouts__report_core__templates__06_three_block.svg",
+    "templates/layouts/report_core/templates/07_kpi_row.svg": "templates/layouts__report_core__templates__07_kpi_row.svg",
+    "templates/layouts/report_core/templates/08_chart_insight.svg": "templates/layouts__report_core__templates__08_chart_insight.svg",
+    "templates/layouts/report_core/templates/09_table_summary.svg": "templates/layouts__report_core__templates__09_table_summary.svg",
+    "templates/layouts/report_core/templates/10_process_timeline.svg": "templates/layouts__report_core__templates__10_process_timeline.svg",
+    "templates/layouts/report_core/templates/11_matrix_2x2.svg": "templates/layouts__report_core__templates__11_matrix_2x2.svg",
+    "templates/layouts/report_core/templates/12_appendix.svg": "templates/layouts__report_core__templates__12_appendix.svg",
+    "templates/layouts/report_core/templates/13_closing.svg": "templates/layouts__report_core__templates__13_closing.svg",
+    "templates/layouts/report_core/templates/design_spec.md": "templates/layouts__report_core__templates__design_spec.md",
+    "templates/layouts/story_vertical/templates/01_cover.svg": "templates/layouts__story_vertical__templates__01_cover.svg",
+    "templates/layouts/story_vertical/templates/02_statement.svg": "templates/layouts__story_vertical__templates__02_statement.svg",
+    "templates/layouts/story_vertical/templates/03_title_content.svg": "templates/layouts__story_vertical__templates__03_title_content.svg",
+    "templates/layouts/story_vertical/templates/04_numbered_list.svg": "templates/layouts__story_vertical__templates__04_numbered_list.svg",
+    "templates/layouts/story_vertical/templates/05_image_full.svg": "templates/layouts__story_vertical__templates__05_image_full.svg",
+    "templates/layouts/story_vertical/templates/06_image_top_text.svg": "templates/layouts__story_vertical__templates__06_image_top_text.svg",
+    "templates/layouts/story_vertical/templates/07_two_block.svg": "templates/layouts__story_vertical__templates__07_two_block.svg",
+    "templates/layouts/story_vertical/templates/08_step_flow.svg": "templates/layouts__story_vertical__templates__08_step_flow.svg",
+    "templates/layouts/story_vertical/templates/09_ending.svg": "templates/layouts__story_vertical__templates__09_ending.svg",
+    "templates/layouts/story_vertical/templates/design_spec.md": "templates/layouts__story_vertical__templates__design_spec.md",
+    "templates/layouts/xiaohongshu_post/templates/01_cover.svg": "templates/layouts__xiaohongshu_post__templates__01_cover.svg",
+    "templates/layouts/xiaohongshu_post/templates/02_statement.svg": "templates/layouts__xiaohongshu_post__templates__02_statement.svg",
+    "templates/layouts/xiaohongshu_post/templates/03_title_content.svg": "templates/layouts__xiaohongshu_post__templates__03_title_content.svg",
+    "templates/layouts/xiaohongshu_post/templates/04_numbered_list.svg": "templates/layouts__xiaohongshu_post__templates__04_numbered_list.svg",
+    "templates/layouts/xiaohongshu_post/templates/05_two_card_stack.svg": "templates/layouts__xiaohongshu_post__templates__05_two_card_stack.svg",
+    "templates/layouts/xiaohongshu_post/templates/06_image_top_text.svg": "templates/layouts__xiaohongshu_post__templates__06_image_top_text.svg",
+    "templates/layouts/xiaohongshu_post/templates/07_image_full_caption.svg": "templates/layouts__xiaohongshu_post__templates__07_image_full_caption.svg",
+    "templates/layouts/xiaohongshu_post/templates/08_quote.svg": "templates/layouts__xiaohongshu_post__templates__08_quote.svg",
+    "templates/layouts/xiaohongshu_post/templates/09_step_flow.svg": "templates/layouts__xiaohongshu_post__templates__09_step_flow.svg",
+    "templates/layouts/xiaohongshu_post/templates/10_ending.svg": "templates/layouts__xiaohongshu_post__templates__10_ending.svg",
+    "templates/layouts/xiaohongshu_post/templates/design_spec.md": "templates/layouts__xiaohongshu_post__templates__design_spec.md",
+    "templates/scaffolds/design_spec.md": "templates/scaffolds__design_spec.md",
+    "templates/scaffolds/spec_lock.md": "templates/scaffolds__spec_lock.md",
+    "templates/schemas/design_spec.schema.json": "templates/schemas__design_spec.schema.json",
+    "templates/schemas/spec_lock.schema.json": "templates/schemas__spec_lock.schema.json",
+    "templates/sounds/README.md": "templates/sounds__README.md",
+    "templates/sounds/sound-vocabulary.md": "templates/sounds__sound-vocabulary.md",
+    "templates/sounds/sounds_index.json": "templates/sounds__sounds_index.json",
+    "templates/spec_lock_reference.md": "templates/spec_lock_reference.md",
+    "templates/styles/README.md": "templates/styles__README.md",
+    "templates/styles/academic-research/templates/design_spec.md": "templates/styles__academic-research__templates__design_spec.md",
+    "templates/styles/consulting-decision/templates/design_spec.md": "templates/styles__consulting-decision__templates__design_spec.md",
+    "templates/styles/creative-pitch/templates/design_spec.md": "templates/styles__creative-pitch__templates__design_spec.md",
+    "templates/styles/incident-postmortem/templates/design_spec.md": "templates/styles__incident-postmortem__templates__design_spec.md",
+    "templates/styles/investor-pitch/templates/design_spec.md": "templates/styles__investor-pitch__templates__design_spec.md",
+    "templates/styles/narrative-keynote/templates/design_spec.md": "templates/styles__narrative-keynote__templates__design_spec.md",
+    "templates/styles/operating-review/templates/design_spec.md": "templates/styles__operating-review__templates__design_spec.md",
+    "templates/styles/product-launch/templates/design_spec.md": "templates/styles__product-launch__templates__design_spec.md",
+    "templates/styles/science-explainer/templates/design_spec.md": "templates/styles__science-explainer__templates__design_spec.md",
+    "templates/styles/solution-proposal/templates/design_spec.md": "templates/styles__solution-proposal__templates__design_spec.md",
+    "templates/styles/styles_index.json": "templates/styles__styles_index.json",
+    "templates/styles/technical-deepdive/templates/design_spec.md": "templates/styles__technical-deepdive__templates__design_spec.md",
+    "templates/styles/workshop-teaching/templates/design_spec.md": "templates/styles__workshop-teaching__templates__design_spec.md",
+    "templates/tables/README.md": "templates/tables__README.md",
+    "templates/tables/comparison_matrix.svg": "templates/tables__comparison_matrix.svg",
+    "templates/tables/feature_matrix.svg": "templates/tables__feature_matrix.svg",
+    "templates/tables/hierarchical_table.svg": "templates/tables__hierarchical_table.svg",
+    "templates/tables/metric_table.svg": "templates/tables__metric_table.svg",
+    "templates/tables/rating_matrix.svg": "templates/tables__rating_matrix.svg",
+    "templates/tables/record_table.svg": "templates/tables__record_table.svg",
+    "templates/tables/table-vocabulary.md": "templates/tables__table-vocabulary.md",
+    "templates/tables/tables_index.json": "templates/tables__tables_index.json",
+    "workflows/create-template/create-brand.md": "workflows/create-template__create-brand.md",
+    "workflows/create-template/create-deck.md": "workflows/create-template__create-deck.md",
+    "workflows/create-template/create-layout.md": "workflows/create-template__create-layout.md",
+    "workflows/create-template/create-style.md": "workflows/create-template__create-style.md",
+    "workflows/create-template.md": "workflows/create-template.md",
+    "workflows/edit-native-pptx.md": "workflows/edit-native-pptx.md",
+    "workflows/generate-pptx.md": "workflows/generate-pptx.md",
+    "workflows/governance/failure-recovery.md": "workflows/governance__failure-recovery.md",
+    "workflows/index.md": "workflows/index.md",
+    "workflows/profiles/beautify-pptx.md": "workflows/profiles__beautify-pptx.md",
+    "workflows/profiles/image-to-pptx.md": "workflows/profiles__image-to-pptx.md",
+    "workflows/profiles/quick-generate.md": "workflows/profiles__quick-generate.md",
+    "workflows/routing.md": "workflows/routing.md",
+    "workflows/stages/apply-template-workspace.md": "workflows/stages__apply-template-workspace.md",
+    "workflows/stages/customize-animations.md": "workflows/stages__customize-animations.md",
+    "workflows/stages/generate-audio.md": "workflows/stages__generate-audio.md",
+    "workflows/stages/live-preview.md": "workflows/stages__live-preview.md",
+    "workflows/stages/refine-spec.md": "workflows/stages__refine-spec.md",
+    "workflows/stages/resume-execute.md": "workflows/stages__resume-execute.md",
+    "workflows/stages/topic-research.md": "workflows/stages__topic-research.md",
+    "workflows/stages/verify-charts.md": "workflows/stages__verify-charts.md",
+    "workflows/stages/visual-review.md": "workflows/stages__visual-review.md",
+    "workflows/stages/web-image-review.md": "workflows/stages__web-image-review.md"
+  },
+  "modules": {
+    "analyze_images": {
+      "file": "scripts/analyze_images.py",
+      "package": false,
+      "original": "scripts/analyze_images.py"
+    },
+    "animation_config": {
+      "file": "scripts/animation_config.py",
+      "package": false,
+      "original": "scripts/animation_config.py"
+    },
+    "authoring_roundtrip": {
+      "file": "scripts/authoring_roundtrip.py",
+      "package": false,
+      "original": "scripts/authoring_roundtrip.py"
+    },
+    "batch_validate": {
+      "file": "scripts/batch_validate.py",
+      "package": false,
+      "original": "scripts/batch_validate.py"
+    },
+    "beautify_identity": {
+      "file": "scripts/beautify_identity.py",
+      "package": false,
+      "original": "scripts/beautify_identity.py"
+    },
+    "beautify_inventory": {
+      "file": "scripts/beautify_inventory.py",
+      "package": false,
+      "original": "scripts/beautify_inventory.py"
+    },
+    "bootstrap_runtime": {
+      "file": "scripts/bootstrap_runtime.py",
+      "package": false,
+      "original": "scripts/bootstrap_runtime.py"
+    },
+    "chart_recall": {
+      "file": "scripts/chart_recall.py",
+      "package": false,
+      "original": "scripts/chart_recall.py"
+    },
+    "check_annotations": {
+      "file": "scripts/check_annotations.py",
+      "package": false,
+      "original": "scripts/check_annotations.py"
+    },
+    "compact_svg_coordinates": {
+      "file": "scripts/compact_svg_coordinates.py",
+      "package": false,
+      "original": "scripts/compact_svg_coordinates.py"
+    },
+    "compact_svg_styles": {
+      "file": "scripts/compact_svg_styles.py",
+      "package": false,
+      "original": "scripts/compact_svg_styles.py"
+    },
+    "config": {
+      "file": "scripts/config.py",
+      "package": false,
+      "original": "scripts/config.py"
+    },
+    "confirm_ui": {
+      "file": "scripts/confirm_ui____init__.py",
+      "package": true,
+      "original": "scripts/confirm_ui/__init__.py"
+    },
+    "confirm_ui.server": {
+      "file": "scripts/confirm_ui__server.py",
+      "package": false,
+      "original": "scripts/confirm_ui/server.py"
+    },
+    "console_encoding": {
+      "file": "scripts/console_encoding.py",
+      "package": false,
+      "original": "scripts/console_encoding.py"
+    },
+    "error_helper": {
+      "file": "scripts/error_helper.py",
+      "package": false,
+      "original": "scripts/error_helper.py"
+    },
+    "extract_svg_assets": {
+      "file": "scripts/extract_svg_assets.py",
+      "package": false,
+      "original": "scripts/extract_svg_assets.py"
+    },
+    "extract_svg_pictures": {
+      "file": "scripts/extract_svg_pictures.py",
+      "package": false,
+      "original": "scripts/extract_svg_pictures.py"
+    },
+    "finalize_svg": {
+      "file": "scripts/finalize_svg.py",
+      "package": false,
+      "original": "scripts/finalize_svg.py"
+    },
+    "gemini_watermark_remover": {
+      "file": "scripts/gemini_watermark_remover.py",
+      "package": false,
+      "original": "scripts/gemini_watermark_remover.py"
+    },
+    "generate_examples_index": {
+      "file": "scripts/generate_examples_index.py",
+      "package": false,
+      "original": "scripts/generate_examples_index.py"
+    },
+    "hyperlink_contract": {
+      "file": "scripts/hyperlink_contract.py",
+      "package": false,
+      "original": "scripts/hyperlink_contract.py"
+    },
+    "icon_sync": {
+      "file": "scripts/icon_sync.py",
+      "package": false,
+      "original": "scripts/icon_sync.py"
+    },
+    "image_backends": {
+      "file": "scripts/image_backends____init__.py",
+      "package": true,
+      "original": "scripts/image_backends/__init__.py"
+    },
+    "image_backends.backend_bfl": {
+      "file": "scripts/image_backends__backend_bfl.py",
+      "package": false,
+      "original": "scripts/image_backends/backend_bfl.py"
+    },
+    "image_backends.backend_common": {
+      "file": "scripts/image_backends__backend_common.py",
+      "package": false,
+      "original": "scripts/image_backends/backend_common.py"
+    },
+    "image_backends.backend_fal": {
+      "file": "scripts/image_backends__backend_fal.py",
+      "package": false,
+      "original": "scripts/image_backends/backend_fal.py"
+    },
+    "image_backends.backend_gemini": {
+      "file": "scripts/image_backends__backend_gemini.py",
+      "package": false,
+      "original": "scripts/image_backends/backend_gemini.py"
+    },
+    "image_backends.backend_ideogram": {
+      "file": "scripts/image_backends__backend_ideogram.py",
+      "package": false,
+      "original": "scripts/image_backends/backend_ideogram.py"
+    },
+    "image_backends.backend_minimax": {
+      "file": "scripts/image_backends__backend_minimax.py",
+      "package": false,
+      "original": "scripts/image_backends/backend_minimax.py"
+    },
+    "image_backends.backend_modelscope": {
+      "file": "scripts/image_backends__backend_modelscope.py",
+      "package": false,
+      "original": "scripts/image_backends/backend_modelscope.py"
+    },
+    "image_backends.backend_openai": {
+      "file": "scripts/image_backends__backend_openai.py",
+      "package": false,
+      "original": "scripts/image_backends/backend_openai.py"
+    },
+    "image_backends.backend_openrouter": {
+      "file": "scripts/image_backends__backend_openrouter.py",
+      "package": false,
+      "original": "scripts/image_backends/backend_openrouter.py"
+    },
+    "image_backends.backend_qwen": {
+      "file": "scripts/image_backends__backend_qwen.py",
+      "package": false,
+      "original": "scripts/image_backends/backend_qwen.py"
+    },
+    "image_backends.backend_replicate": {
+      "file": "scripts/image_backends__backend_replicate.py",
+      "package": false,
+      "original": "scripts/image_backends/backend_replicate.py"
+    },
+    "image_backends.backend_siliconflow": {
+      "file": "scripts/image_backends__backend_siliconflow.py",
+      "package": false,
+      "original": "scripts/image_backends/backend_siliconflow.py"
+    },
+    "image_backends.backend_stability": {
+      "file": "scripts/image_backends__backend_stability.py",
+      "package": false,
+      "original": "scripts/image_backends/backend_stability.py"
+    },
+    "image_backends.backend_volcengine": {
+      "file": "scripts/image_backends__backend_volcengine.py",
+      "package": false,
+      "original": "scripts/image_backends/backend_volcengine.py"
+    },
+    "image_backends.backend_zhipu": {
+      "file": "scripts/image_backends__backend_zhipu.py",
+      "package": false,
+      "original": "scripts/image_backends/backend_zhipu.py"
+    },
+    "image_gen": {
+      "file": "scripts/image_gen.py",
+      "package": false,
+      "original": "scripts/image_gen.py"
+    },
+    "image_search": {
+      "file": "scripts/image_search.py",
+      "package": false,
+      "original": "scripts/image_search.py"
+    },
+    "image_sources": {
+      "file": "scripts/image_sources____init__.py",
+      "package": true,
+      "original": "scripts/image_sources/__init__.py"
+    },
+    "image_sources.provider_common": {
+      "file": "scripts/image_sources__provider_common.py",
+      "package": false,
+      "original": "scripts/image_sources/provider_common.py"
+    },
+    "image_sources.provider_openverse": {
+      "file": "scripts/image_sources__provider_openverse.py",
+      "package": false,
+      "original": "scripts/image_sources/provider_openverse.py"
+    },
+    "image_sources.provider_pexels": {
+      "file": "scripts/image_sources__provider_pexels.py",
+      "package": false,
+      "original": "scripts/image_sources/provider_pexels.py"
+    },
+    "image_sources.provider_pixabay": {
+      "file": "scripts/image_sources__provider_pixabay.py",
+      "package": false,
+      "original": "scripts/image_sources/provider_pixabay.py"
+    },
+    "image_sources.provider_wikimedia": {
+      "file": "scripts/image_sources__provider_wikimedia.py",
+      "package": false,
+      "original": "scripts/image_sources/provider_wikimedia.py"
+    },
+    "image_treat": {
+      "file": "scripts/image_treat.py",
+      "package": false,
+      "original": "scripts/image_treat.py"
+    },
+    "language_tags": {
+      "file": "scripts/language_tags.py",
+      "package": false,
+      "original": "scripts/language_tags.py"
+    },
+    "latex_render": {
+      "file": "scripts/latex_render.py",
+      "package": false,
+      "original": "scripts/latex_render.py"
+    },
+    "mirror_template_materialize": {
+      "file": "scripts/mirror_template_materialize.py",
+      "package": false,
+      "original": "scripts/mirror_template_materialize.py"
+    },
+    "narration_sync": {
+      "file": "scripts/narration_sync.py",
+      "package": false,
+      "original": "scripts/narration_sync.py"
+    },
+    "native_payloads": {
+      "file": "scripts/native_payloads.py",
+      "package": false,
+      "original": "scripts/native_payloads.py"
+    },
+    "notes_to_audio": {
+      "file": "scripts/notes_to_audio.py",
+      "package": false,
+      "original": "scripts/notes_to_audio.py"
+    },
+    "package_integrity": {
+      "file": "scripts/package_integrity.py",
+      "package": false,
+      "original": "scripts/package_integrity.py"
+    },
+    "page_context": {
+      "file": "scripts/page_context.py",
+      "package": false,
+      "original": "scripts/page_context.py"
+    },
+    "powerpoint_video": {
+      "file": "scripts/powerpoint_video.py",
+      "package": false,
+      "original": "scripts/powerpoint_video.py"
+    },
+    "pptx_animations": {
+      "file": "scripts/pptx_animations.py",
+      "package": false,
+      "original": "scripts/pptx_animations.py"
+    },
+    "pptx_delivery_check": {
+      "file": "scripts/pptx_delivery_check.py",
+      "package": false,
+      "original": "scripts/pptx_delivery_check.py"
+    },
+    "pptx_effects": {
+      "file": "scripts/pptx_effects.py",
+      "package": false,
+      "original": "scripts/pptx_effects.py"
+    },
+    "pptx_embedded_fonts": {
+      "file": "scripts/pptx_embedded_fonts.py",
+      "package": false,
+      "original": "scripts/pptx_embedded_fonts.py"
+    },
+    "pptx_gradients": {
+      "file": "scripts/pptx_gradients.py",
+      "package": false,
+      "original": "scripts/pptx_gradients.py"
+    },
+    "pptx_intake": {
+      "file": "scripts/pptx_intake.py",
+      "package": false,
+      "original": "scripts/pptx_intake.py"
+    },
+    "pptx_ooxml": {
+      "file": "scripts/pptx_ooxml____init__.py",
+      "package": true,
+      "original": "scripts/pptx_ooxml/__init__.py"
+    },
+    "pptx_ooxml.analyzer": {
+      "file": "scripts/pptx_ooxml__analyzer.py",
+      "package": false,
+      "original": "scripts/pptx_ooxml/analyzer.py"
+    },
+    "pptx_ooxml.chart_read": {
+      "file": "scripts/pptx_ooxml__chart_read.py",
+      "package": false,
+      "original": "scripts/pptx_ooxml/chart_read.py"
+    },
+    "pptx_ooxml.clone": {
+      "file": "scripts/pptx_ooxml__clone.py",
+      "package": false,
+      "original": "scripts/pptx_ooxml/clone.py"
+    },
+    "pptx_ooxml.diagram_read": {
+      "file": "scripts/pptx_ooxml__diagram_read.py",
+      "package": false,
+      "original": "scripts/pptx_ooxml/diagram_read.py"
+    },
+    "pptx_ooxml.edit_safety": {
+      "file": "scripts/pptx_ooxml__edit_safety.py",
+      "package": false,
+      "original": "scripts/pptx_ooxml/edit_safety.py"
+    },
+    "pptx_ooxml.ooxml": {
+      "file": "scripts/pptx_ooxml__ooxml.py",
+      "package": false,
+      "original": "scripts/pptx_ooxml/ooxml.py"
+    },
+    "pptx_ooxml.package": {
+      "file": "scripts/pptx_ooxml__package.py",
+      "package": false,
+      "original": "scripts/pptx_ooxml/package.py"
+    },
+    "pptx_opc_validation": {
+      "file": "scripts/pptx_opc_validation.py",
+      "package": false,
+      "original": "scripts/pptx_opc_validation.py"
+    },
+    "pptx_shapes": {
+      "file": "scripts/pptx_shapes____init__.py",
+      "package": true,
+      "original": "scripts/pptx_shapes/__init__.py"
+    },
+    "pptx_shapes.errors": {
+      "file": "scripts/pptx_shapes__errors.py",
+      "package": false,
+      "original": "scripts/pptx_shapes/errors.py"
+    },
+    "pptx_shapes.formula": {
+      "file": "scripts/pptx_shapes__formula.py",
+      "package": false,
+      "original": "scripts/pptx_shapes/formula.py"
+    },
+    "pptx_shapes.loader": {
+      "file": "scripts/pptx_shapes__loader.py",
+      "package": false,
+      "original": "scripts/pptx_shapes/loader.py"
+    },
+    "pptx_shapes.models": {
+      "file": "scripts/pptx_shapes__models.py",
+      "package": false,
+      "original": "scripts/pptx_shapes/models.py"
+    },
+    "pptx_shapes.registry": {
+      "file": "scripts/pptx_shapes__registry.py",
+      "package": false,
+      "original": "scripts/pptx_shapes/registry.py"
+    },
+    "pptx_shapes.semantic_hash": {
+      "file": "scripts/pptx_shapes__semantic_hash.py",
+      "package": false,
+      "original": "scripts/pptx_shapes/semantic_hash.py"
+    },
+    "pptx_shapes.semantics": {
+      "file": "scripts/pptx_shapes__semantics.py",
+      "package": false,
+      "original": "scripts/pptx_shapes/semantics.py"
+    },
+    "pptx_shapes.xml_safety": {
+      "file": "scripts/pptx_shapes__xml_safety.py",
+      "package": false,
+      "original": "scripts/pptx_shapes/xml_safety.py"
+    },
+    "pptx_template_import": {
+      "file": "scripts/pptx_template_import.py",
+      "package": false,
+      "original": "scripts/pptx_template_import.py"
+    },
+    "pptx_to_svg": {
+      "file": "scripts/pptx_to_svg____init__.py",
+      "package": true,
+      "original": "scripts/pptx_to_svg/__init__.py"
+    },
+    "pptx_to_svg.animation_import": {
+      "file": "scripts/pptx_to_svg__animation_import.py",
+      "package": false,
+      "original": "scripts/pptx_to_svg/animation_import.py"
+    },
+    "pptx_to_svg.chart_to_svg": {
+      "file": "scripts/pptx_to_svg__chart_to_svg.py",
+      "package": false,
+      "original": "scripts/pptx_to_svg/chart_to_svg.py"
+    },
+    "pptx_to_svg.chartex_to_svg": {
+      "file": "scripts/pptx_to_svg__chartex_to_svg.py",
+      "package": false,
+      "original": "scripts/pptx_to_svg/chartex_to_svg.py"
+    },
+    "pptx_to_svg.color_resolver": {
+      "file": "scripts/pptx_to_svg__color_resolver.py",
+      "package": false,
+      "original": "scripts/pptx_to_svg/color_resolver.py"
+    },
+    "pptx_to_svg.converter": {
+      "file": "scripts/pptx_to_svg__converter.py",
+      "package": false,
+      "original": "scripts/pptx_to_svg/converter.py"
+    },
+    "pptx_to_svg.custgeom_to_svg": {
+      "file": "scripts/pptx_to_svg__custgeom_to_svg.py",
+      "package": false,
+      "original": "scripts/pptx_to_svg/custgeom_to_svg.py"
+    },
+    "pptx_to_svg.effect_to_svg": {
+      "file": "scripts/pptx_to_svg__effect_to_svg.py",
+      "package": false,
+      "original": "scripts/pptx_to_svg/effect_to_svg.py"
+    },
+    "pptx_to_svg.emu_units": {
+      "file": "scripts/pptx_to_svg__emu_units.py",
+      "package": false,
+      "original": "scripts/pptx_to_svg/emu_units.py"
+    },
+    "pptx_to_svg.fill_to_svg": {
+      "file": "scripts/pptx_to_svg__fill_to_svg.py",
+      "package": false,
+      "original": "scripts/pptx_to_svg/fill_to_svg.py"
+    },
+    "pptx_to_svg.formula_import": {
+      "file": "scripts/pptx_to_svg__formula_import.py",
+      "package": false,
+      "original": "scripts/pptx_to_svg/formula_import.py"
+    },
+    "pptx_to_svg.hyperlinks": {
+      "file": "scripts/pptx_to_svg__hyperlinks.py",
+      "package": false,
+      "original": "scripts/pptx_to_svg/hyperlinks.py"
+    },
+    "pptx_to_svg.import_diagnostics": {
+      "file": "scripts/pptx_to_svg__import_diagnostics.py",
+      "package": false,
+      "original": "scripts/pptx_to_svg/import_diagnostics.py"
+    },
+    "pptx_to_svg.ln_to_svg": {
+      "file": "scripts/pptx_to_svg__ln_to_svg.py",
+      "package": false,
+      "original": "scripts/pptx_to_svg/ln_to_svg.py"
+    },
+    "pptx_to_svg.normalized_chart_svg": {
+      "file": "scripts/pptx_to_svg__normalized_chart_svg.py",
+      "package": false,
+      "original": "scripts/pptx_to_svg/normalized_chart_svg.py"
+    },
+    "pptx_to_svg.notes_import": {
+      "file": "scripts/pptx_to_svg__notes_import.py",
+      "package": false,
+      "original": "scripts/pptx_to_svg/notes_import.py"
+    },
+    "pptx_to_svg.ooxml_loader": {
+      "file": "scripts/pptx_to_svg__ooxml_loader.py",
+      "package": false,
+      "original": "scripts/pptx_to_svg/ooxml_loader.py"
+    },
+    "pptx_to_svg.pic_to_svg": {
+      "file": "scripts/pptx_to_svg__pic_to_svg.py",
+      "package": false,
+      "original": "scripts/pptx_to_svg/pic_to_svg.py"
+    },
+    "pptx_to_svg.preset_authoring": {
+      "file": "scripts/pptx_to_svg__preset_authoring.py",
+      "package": false,
+      "original": "scripts/pptx_to_svg/preset_authoring.py"
+    },
+    "pptx_to_svg.preset_registry_to_svg": {
+      "file": "scripts/pptx_to_svg__preset_registry_to_svg.py",
+      "package": false,
+      "original": "scripts/pptx_to_svg/preset_registry_to_svg.py"
+    },
+    "pptx_to_svg.preset_svg_markup": {
+      "file": "scripts/pptx_to_svg__preset_svg_markup.py",
+      "package": false,
+      "original": "scripts/pptx_to_svg/preset_svg_markup.py"
+    },
+    "pptx_to_svg.prstgeom_to_svg": {
+      "file": "scripts/pptx_to_svg__prstgeom_to_svg.py",
+      "package": false,
+      "original": "scripts/pptx_to_svg/prstgeom_to_svg.py"
+    },
+    "pptx_to_svg.shape_walker": {
+      "file": "scripts/pptx_to_svg__shape_walker.py",
+      "package": false,
+      "original": "scripts/pptx_to_svg/shape_walker.py"
+    },
+    "pptx_to_svg.slide_to_svg": {
+      "file": "scripts/pptx_to_svg__slide_to_svg.py",
+      "package": false,
+      "original": "scripts/pptx_to_svg/slide_to_svg.py"
+    },
+    "pptx_to_svg.tbl_to_svg": {
+      "file": "scripts/pptx_to_svg__tbl_to_svg.py",
+      "package": false,
+      "original": "scripts/pptx_to_svg/tbl_to_svg.py"
+    },
+    "pptx_to_svg.transition_import": {
+      "file": "scripts/pptx_to_svg__transition_import.py",
+      "package": false,
+      "original": "scripts/pptx_to_svg/transition_import.py"
+    },
+    "pptx_to_svg.txbody_to_svg": {
+      "file": "scripts/pptx_to_svg__txbody_to_svg.py",
+      "package": false,
+      "original": "scripts/pptx_to_svg/txbody_to_svg.py"
+    },
+    "pptx_transitions": {
+      "file": "scripts/pptx_transitions.py",
+      "package": false,
+      "original": "scripts/pptx_transitions.py"
+    },
+    "pptx_workspace": {
+      "file": "scripts/pptx_workspace.py",
+      "package": false,
+      "original": "scripts/pptx_workspace.py"
+    },
+    "preset_shape_svg": {
+      "file": "scripts/preset_shape_svg.py",
+      "package": false,
+      "original": "scripts/preset_shape_svg.py"
+    },
+    "project_management": {
+      "file": "scripts/project_management____init__.py",
+      "package": true,
+      "original": "scripts/project_management/__init__.py"
+    },
+    "project_management.cli": {
+      "file": "scripts/project_management__cli.py",
+      "package": false,
+      "original": "scripts/project_management/cli.py"
+    },
+    "project_management.page_context": {
+      "file": "scripts/project_management__page_context.py",
+      "package": false,
+      "original": "scripts/project_management/page_context.py"
+    },
+    "project_management.paths": {
+      "file": "scripts/project_management__paths.py",
+      "package": false,
+      "original": "scripts/project_management/paths.py"
+    },
+    "project_management.project_specs": {
+      "file": "scripts/project_management__project_specs.py",
+      "package": false,
+      "original": "scripts/project_management/project_specs.py"
+    },
+    "project_manager": {
+      "file": "scripts/project_manager.py",
+      "package": false,
+      "original": "scripts/project_manager.py"
+    },
+    "project_specs": {
+      "file": "scripts/project_specs.py",
+      "package": false,
+      "original": "scripts/project_specs.py"
+    },
+    "project_utils": {
+      "file": "scripts/project_utils.py",
+      "package": false,
+      "original": "scripts/project_utils.py"
+    },
+    "prompt_audit": {
+      "file": "scripts/prompt_audit.py",
+      "package": false,
+      "original": "scripts/prompt_audit.py"
+    },
+    "register_template": {
+      "file": "scripts/register_template.py",
+      "package": false,
+      "original": "scripts/register_template.py"
+    },
+    "resource_paths": {
+      "file": "scripts/resource_paths.py",
+      "package": false,
+      "original": "scripts/resource_paths.py"
+    },
+    "rotate_images": {
+      "file": "scripts/rotate_images.py",
+      "package": false,
+      "original": "scripts/rotate_images.py"
+    },
+    "run_workbuddy": {
+      "file": "scripts/run_workbuddy.py",
+      "package": false,
+      "original": "scripts/run_workbuddy.py"
+    },
+    "semantic_table": {
+      "file": "scripts/semantic_table.py",
+      "package": false,
+      "original": "scripts/semantic_table.py"
+    },
+    "server_common": {
+      "file": "scripts/server_common.py",
+      "package": false,
+      "original": "scripts/server_common.py"
+    },
+    "shape_boolean_svg": {
+      "file": "scripts/shape_boolean_svg.py",
+      "package": false,
+      "original": "scripts/shape_boolean_svg.py"
+    },
+    "slice_images": {
+      "file": "scripts/slice_images.py",
+      "package": false,
+      "original": "scripts/slice_images.py"
+    },
+    "slide_roster": {
+      "file": "scripts/slide_roster.py",
+      "package": false,
+      "original": "scripts/slide_roster.py"
+    },
+    "sound_sync": {
+      "file": "scripts/sound_sync.py",
+      "package": false,
+      "original": "scripts/sound_sync.py"
+    },
+    "source_to_md._batch": {
+      "file": "scripts/source_to_md___batch.py",
+      "package": false,
+      "original": "scripts/source_to_md/_batch.py"
+    },
+    "source_to_md": {
+      "file": null,
+      "package": true,
+      "original": null
+    },
+    "source_to_md._conversion_profile": {
+      "file": "scripts/source_to_md___conversion_profile.py",
+      "package": false,
+      "original": "scripts/source_to_md/_conversion_profile.py"
+    },
+    "source_to_md._dispatcher": {
+      "file": "scripts/source_to_md___dispatcher.py",
+      "package": false,
+      "original": "scripts/source_to_md/_dispatcher.py"
+    },
+    "source_to_md.doc_to_md": {
+      "file": "scripts/source_to_md__doc_to_md.py",
+      "package": false,
+      "original": "scripts/source_to_md/doc_to_md.py"
+    },
+    "source_to_md.excel_to_md": {
+      "file": "scripts/source_to_md__excel_to_md.py",
+      "package": false,
+      "original": "scripts/source_to_md/excel_to_md.py"
+    },
+    "source_to_md.pdf_to_md": {
+      "file": "scripts/source_to_md__pdf_to_md.py",
+      "package": false,
+      "original": "scripts/source_to_md/pdf_to_md.py"
+    },
+    "source_to_md.ppt_to_md": {
+      "file": "scripts/source_to_md__ppt_to_md.py",
+      "package": false,
+      "original": "scripts/source_to_md/ppt_to_md.py"
+    },
+    "source_to_md.web_to_md": {
+      "file": "scripts/source_to_md__web_to_md.py",
+      "package": false,
+      "original": "scripts/source_to_md/web_to_md.py"
+    },
+    "stamp_native_fallbacks": {
+      "file": "scripts/stamp_native_fallbacks.py",
+      "package": false,
+      "original": "scripts/stamp_native_fallbacks.py"
+    },
+    "svg_authoring_contract": {
+      "file": "scripts/svg_authoring_contract.py",
+      "package": false,
+      "original": "scripts/svg_authoring_contract.py"
+    },
+    "svg_authoring_view": {
+      "file": "scripts/svg_authoring_view.py",
+      "package": false,
+      "original": "scripts/svg_authoring_view.py"
+    },
+    "svg_compatibility": {
+      "file": "scripts/svg_compatibility.py",
+      "package": false,
+      "original": "scripts/svg_compatibility.py"
+    },
+    "svg_editor": {
+      "file": "scripts/svg_editor____init__.py",
+      "package": true,
+      "original": "scripts/svg_editor/__init__.py"
+    },
+    "svg_editor.annotations": {
+      "file": "scripts/svg_editor__annotations.py",
+      "package": false,
+      "original": "scripts/svg_editor/annotations.py"
+    },
+    "svg_editor.server": {
+      "file": "scripts/svg_editor__server.py",
+      "package": false,
+      "original": "scripts/svg_editor/server.py"
+    },
+    "svg_finalize": {
+      "file": "scripts/svg_finalize____init__.py",
+      "package": true,
+      "original": "scripts/svg_finalize/__init__.py"
+    },
+    "svg_finalize.align_embed_images": {
+      "file": "scripts/svg_finalize__align_embed_images.py",
+      "package": false,
+      "original": "scripts/svg_finalize/align_embed_images.py"
+    },
+    "svg_finalize.crop_images": {
+      "file": "scripts/svg_finalize__crop_images.py",
+      "package": false,
+      "original": "scripts/svg_finalize/crop_images.py"
+    },
+    "svg_finalize.embed_icons": {
+      "file": "scripts/svg_finalize__embed_icons.py",
+      "package": false,
+      "original": "scripts/svg_finalize/embed_icons.py"
+    },
+    "svg_finalize.embed_images": {
+      "file": "scripts/svg_finalize__embed_images.py",
+      "package": false,
+      "original": "scripts/svg_finalize/embed_images.py"
+    },
+    "svg_finalize.fix_image_aspect": {
+      "file": "scripts/svg_finalize__fix_image_aspect.py",
+      "package": false,
+      "original": "scripts/svg_finalize/fix_image_aspect.py"
+    },
+    "svg_finalize.flatten_tspan": {
+      "file": "scripts/svg_finalize__flatten_tspan.py",
+      "package": false,
+      "original": "scripts/svg_finalize/flatten_tspan.py"
+    },
+    "svg_finalize.svg_rect_to_path": {
+      "file": "scripts/svg_finalize__svg_rect_to_path.py",
+      "package": false,
+      "original": "scripts/svg_finalize/svg_rect_to_path.py"
+    },
+    "svg_position_calculator": {
+      "file": "scripts/svg_position_calculator.py",
+      "package": false,
+      "original": "scripts/svg_position_calculator.py"
+    },
+    "svg_quality": {
+      "file": "scripts/svg_quality____init__.py",
+      "package": true,
+      "original": "scripts/svg_quality/__init__.py"
+    },
+    "svg_quality.checker": {
+      "file": "scripts/svg_quality__checker.py",
+      "package": false,
+      "original": "scripts/svg_quality/checker.py"
+    },
+    "svg_quality.cli": {
+      "file": "scripts/svg_quality__cli.py",
+      "package": false,
+      "original": "scripts/svg_quality/cli.py"
+    },
+    "svg_quality.svg_contracts": {
+      "file": "scripts/svg_quality__svg_contracts.py",
+      "package": false,
+      "original": "scripts/svg_quality/svg_contracts.py"
+    },
+    "svg_quality.xml_support": {
+      "file": "scripts/svg_quality__xml_support.py",
+      "package": false,
+      "original": "scripts/svg_quality/xml_support.py"
+    },
+    "svg_quality_checker": {
+      "file": "scripts/svg_quality_checker.py",
+      "package": false,
+      "original": "scripts/svg_quality_checker.py"
+    },
+    "svg_to_pptx": {
+      "file": "scripts/svg_to_pptx____init__.py",
+      "package": true,
+      "original": "scripts/svg_to_pptx/__init__.py"
+    },
+    "svg_to_pptx.animation_config": {
+      "file": "scripts/svg_to_pptx__animation_config.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/animation_config.py"
+    },
+    "svg_to_pptx.canvas_contract": {
+      "file": "scripts/svg_to_pptx__canvas_contract.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/canvas_contract.py"
+    },
+    "svg_to_pptx.drawingml": {
+      "file": "scripts/svg_to_pptx__drawingml____init__.py",
+      "package": true,
+      "original": "scripts/svg_to_pptx/drawingml/__init__.py"
+    },
+    "svg_to_pptx.drawingml.context": {
+      "file": "scripts/svg_to_pptx__drawingml__context.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/drawingml/context.py"
+    },
+    "svg_to_pptx.drawingml.converter": {
+      "file": "scripts/svg_to_pptx__drawingml__converter.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/drawingml/converter.py"
+    },
+    "svg_to_pptx.drawingml.elements": {
+      "file": "scripts/svg_to_pptx__drawingml__elements.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/drawingml/elements.py"
+    },
+    "svg_to_pptx.drawingml.hyperlinks": {
+      "file": "scripts/svg_to_pptx__drawingml__hyperlinks.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/drawingml/hyperlinks.py"
+    },
+    "svg_to_pptx.drawingml.paths": {
+      "file": "scripts/svg_to_pptx__drawingml__paths.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/drawingml/paths.py"
+    },
+    "svg_to_pptx.drawingml.styles": {
+      "file": "scripts/svg_to_pptx__drawingml__styles.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/drawingml/styles.py"
+    },
+    "svg_to_pptx.drawingml.text_properties": {
+      "file": "scripts/svg_to_pptx__drawingml__text_properties.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/drawingml/text_properties.py"
+    },
+    "svg_to_pptx.drawingml.theme_colors": {
+      "file": "scripts/svg_to_pptx__drawingml__theme_colors.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/drawingml/theme_colors.py"
+    },
+    "svg_to_pptx.drawingml.theme_fonts": {
+      "file": "scripts/svg_to_pptx__drawingml__theme_fonts.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/drawingml/theme_fonts.py"
+    },
+    "svg_to_pptx.drawingml.utils": {
+      "file": "scripts/svg_to_pptx__drawingml__utils.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/drawingml/utils.py"
+    },
+    "svg_to_pptx.geometry_properties": {
+      "file": "scripts/svg_to_pptx__geometry_properties.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/geometry_properties.py"
+    },
+    "svg_to_pptx.native_objects": {
+      "file": "scripts/svg_to_pptx__native_objects____init__.py",
+      "package": true,
+      "original": "scripts/svg_to_pptx/native_objects/__init__.py"
+    },
+    "svg_to_pptx.native_objects.chart_data": {
+      "file": "scripts/svg_to_pptx__native_objects__chart_data.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/native_objects/chart_data.py"
+    },
+    "svg_to_pptx.native_objects.chart_style": {
+      "file": "scripts/svg_to_pptx__native_objects__chart_style.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/native_objects/chart_style.py"
+    },
+    "svg_to_pptx.native_objects.chart_xml": {
+      "file": "scripts/svg_to_pptx__native_objects__chart_xml.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/native_objects/chart_xml.py"
+    },
+    "svg_to_pptx.native_objects.chartex": {
+      "file": "scripts/svg_to_pptx__native_objects__chartex.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/native_objects/chartex.py"
+    },
+    "svg_to_pptx.native_objects.fallback_hash": {
+      "file": "scripts/svg_to_pptx__native_objects__fallback_hash.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/native_objects/fallback_hash.py"
+    },
+    "svg_to_pptx.native_objects.formula": {
+      "file": "scripts/svg_to_pptx__native_objects__formula.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/native_objects/formula.py"
+    },
+    "svg_to_pptx.native_objects.formula_ast": {
+      "file": "scripts/svg_to_pptx__native_objects__formula_ast.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/native_objects/formula_ast.py"
+    },
+    "svg_to_pptx.native_objects.formula_compiler": {
+      "file": "scripts/svg_to_pptx__native_objects__formula_compiler.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/native_objects/formula_compiler.py"
+    },
+    "svg_to_pptx.native_objects.formula_omml": {
+      "file": "scripts/svg_to_pptx__native_objects__formula_omml.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/native_objects/formula_omml.py"
+    },
+    "svg_to_pptx.native_objects.formula_parser": {
+      "file": "scripts/svg_to_pptx__native_objects__formula_parser.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/native_objects/formula_parser.py"
+    },
+    "svg_to_pptx.native_objects.formula_profile": {
+      "file": "scripts/svg_to_pptx__native_objects__formula_profile.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/native_objects/formula_profile.py"
+    },
+    "svg_to_pptx.native_objects.formula_run_properties": {
+      "file": "scripts/svg_to_pptx__native_objects__formula_run_properties.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/native_objects/formula_run_properties.py"
+    },
+    "svg_to_pptx.native_objects.inline_formula": {
+      "file": "scripts/svg_to_pptx__native_objects__inline_formula.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/native_objects/inline_formula.py"
+    },
+    "svg_to_pptx.native_objects.marker_attributes": {
+      "file": "scripts/svg_to_pptx__native_objects__marker_attributes.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/native_objects/marker_attributes.py"
+    },
+    "svg_to_pptx.native_objects.marker_common": {
+      "file": "scripts/svg_to_pptx__native_objects__marker_common.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/native_objects/marker_common.py"
+    },
+    "svg_to_pptx.native_objects.marker_status": {
+      "file": "scripts/svg_to_pptx__native_objects__marker_status.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/native_objects/marker_status.py"
+    },
+    "svg_to_pptx.native_objects.table": {
+      "file": "scripts/svg_to_pptx__native_objects__table.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/native_objects/table.py"
+    },
+    "svg_to_pptx.native_objects.workbook": {
+      "file": "scripts/svg_to_pptx__native_objects__workbook.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/native_objects/workbook.py"
+    },
+    "svg_to_pptx.pptx_package": {
+      "file": "scripts/svg_to_pptx__pptx_package____init__.py",
+      "package": true,
+      "original": "scripts/svg_to_pptx/pptx_package/__init__.py"
+    },
+    "svg_to_pptx.pptx_package.builder": {
+      "file": "scripts/svg_to_pptx__pptx_package__builder.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/pptx_package/builder.py"
+    },
+    "svg_to_pptx.pptx_package.cli": {
+      "file": "scripts/svg_to_pptx__pptx_package__cli.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/pptx_package/cli.py"
+    },
+    "svg_to_pptx.pptx_package.dimensions": {
+      "file": "scripts/svg_to_pptx__pptx_package__dimensions.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/pptx_package/dimensions.py"
+    },
+    "svg_to_pptx.pptx_package.discovery": {
+      "file": "scripts/svg_to_pptx__pptx_package__discovery.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/pptx_package/discovery.py"
+    },
+    "svg_to_pptx.pptx_package.media": {
+      "file": "scripts/svg_to_pptx__pptx_package__media.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/pptx_package/media.py"
+    },
+    "svg_to_pptx.pptx_package.narration": {
+      "file": "scripts/svg_to_pptx__pptx_package__narration.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/pptx_package/narration.py"
+    },
+    "svg_to_pptx.pptx_package.notes": {
+      "file": "scripts/svg_to_pptx__pptx_package__notes.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/pptx_package/notes.py"
+    },
+    "svg_to_pptx.pptx_package.slide_xml": {
+      "file": "scripts/svg_to_pptx__pptx_package__slide_xml.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/pptx_package/slide_xml.py"
+    },
+    "svg_to_pptx.pptx_package.template_structure": {
+      "file": "scripts/svg_to_pptx__pptx_package__template_structure.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/pptx_package/template_structure.py"
+    },
+    "svg_to_pptx.pptx_package.template_validation": {
+      "file": "scripts/svg_to_pptx__pptx_package__template_validation.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/pptx_package/template_validation.py"
+    },
+    "svg_to_pptx.semantic_markers": {
+      "file": "scripts/svg_to_pptx__semantic_markers.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/semantic_markers.py"
+    },
+    "svg_to_pptx.shape_boolean": {
+      "file": "scripts/svg_to_pptx__shape_boolean.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/shape_boolean.py"
+    },
+    "svg_to_pptx.text_outline": {
+      "file": "scripts/svg_to_pptx__text_outline.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/text_outline.py"
+    },
+    "svg_to_pptx.tspan_flattener": {
+      "file": "scripts/svg_to_pptx__tspan_flattener.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/tspan_flattener.py"
+    },
+    "svg_to_pptx.use_expander": {
+      "file": "scripts/svg_to_pptx__use_expander.py",
+      "package": false,
+      "original": "scripts/svg_to_pptx/use_expander.py"
+    },
+    "template_import": {
+      "file": "scripts/template_import____init__.py",
+      "package": true,
+      "original": "scripts/template_import/__init__.py"
+    },
+    "template_import.manifest": {
+      "file": "scripts/template_import__manifest.py",
+      "package": false,
+      "original": "scripts/template_import/manifest.py"
+    },
+    "template_import.native_structure": {
+      "file": "scripts/template_import__native_structure.py",
+      "package": false,
+      "original": "scripts/template_import/native_structure.py"
+    },
+    "template_preview_pptx": {
+      "file": "scripts/template_preview_pptx.py",
+      "package": false,
+      "original": "scripts/template_preview_pptx.py"
+    },
+    "template_text_slots": {
+      "file": "scripts/template_text_slots.py",
+      "package": false,
+      "original": "scripts/template_text_slots.py"
+    },
+    "tests.test_confirm_ui_design_spec_depth": {
+      "file": "scripts/tests__test_confirm_ui_design_spec_depth.py",
+      "package": false,
+      "original": "scripts/tests/test_confirm_ui_design_spec_depth.py"
+    },
+    "tests": {
+      "file": null,
+      "package": true,
+      "original": null
+    },
+    "tests.test_image_search": {
+      "file": "scripts/tests__test_image_search.py",
+      "package": false,
+      "original": "scripts/tests/test_image_search.py"
+    },
+    "tests.test_native_chart_table_parity": {
+      "file": "scripts/tests__test_native_chart_table_parity.py",
+      "package": false,
+      "original": "scripts/tests/test_native_chart_table_parity.py"
+    },
+    "tests.test_slice_images": {
+      "file": "scripts/tests__test_slice_images.py",
+      "package": false,
+      "original": "scripts/tests/test_slice_images.py"
+    },
+    "tests.test_spec_lock_forbidden": {
+      "file": "scripts/tests__test_spec_lock_forbidden.py",
+      "package": false,
+      "original": "scripts/tests/test_spec_lock_forbidden.py"
+    },
+    "tests.test_svg_quality_checker": {
+      "file": "scripts/tests__test_svg_quality_checker.py",
+      "package": false,
+      "original": "scripts/tests/test_svg_quality_checker.py"
+    },
+    "tests.test_text_measure": {
+      "file": "scripts/tests__test_text_measure.py",
+      "package": false,
+      "original": "scripts/tests/test_text_measure.py"
+    },
+    "tests.test_update_spec": {
+      "file": "scripts/tests__test_update_spec.py",
+      "package": false,
+      "original": "scripts/tests/test_update_spec.py"
+    },
+    "text_measure": {
+      "file": "scripts/text_measure.py",
+      "package": false,
+      "original": "scripts/text_measure.py"
+    },
+    "total_md_split": {
+      "file": "scripts/total_md_split.py",
+      "package": false,
+      "original": "scripts/total_md_split.py"
+    },
+    "tts_backends": {
+      "file": "scripts/tts_backends____init__.py",
+      "package": true,
+      "original": "scripts/tts_backends/__init__.py"
+    },
+    "tts_backends.backend_common": {
+      "file": "scripts/tts_backends__backend_common.py",
+      "package": false,
+      "original": "scripts/tts_backends/backend_common.py"
+    },
+    "tts_backends.backend_cosyvoice": {
+      "file": "scripts/tts_backends__backend_cosyvoice.py",
+      "package": false,
+      "original": "scripts/tts_backends/backend_cosyvoice.py"
+    },
+    "tts_backends.backend_edge": {
+      "file": "scripts/tts_backends__backend_edge.py",
+      "package": false,
+      "original": "scripts/tts_backends/backend_edge.py"
+    },
+    "tts_backends.backend_elevenlabs": {
+      "file": "scripts/tts_backends__backend_elevenlabs.py",
+      "package": false,
+      "original": "scripts/tts_backends/backend_elevenlabs.py"
+    },
+    "tts_backends.backend_minimax": {
+      "file": "scripts/tts_backends__backend_minimax.py",
+      "package": false,
+      "original": "scripts/tts_backends/backend_minimax.py"
+    },
+    "tts_backends.backend_qwen": {
+      "file": "scripts/tts_backends__backend_qwen.py",
+      "package": false,
+      "original": "scripts/tts_backends/backend_qwen.py"
+    },
+    "update_spec": {
+      "file": "scripts/update_spec.py",
+      "package": false,
+      "original": "scripts/update_spec.py"
+    },
+    "video_motion_plan": {
+      "file": "scripts/video_motion_plan.py",
+      "package": false,
+      "original": "scripts/video_motion_plan.py"
+    },
+    "video_sound_mix": {
+      "file": "scripts/video_sound_mix.py",
+      "package": false,
+      "original": "scripts/video_sound_mix.py"
+    },
+    "video_subtitles": {
+      "file": "scripts/video_subtitles.py",
+      "package": false,
+      "original": "scripts/video_subtitles.py"
+    },
+    "visual_review": {
+      "file": "scripts/visual_review.py",
+      "package": false,
+      "original": "scripts/visual_review.py"
+    },
+    "visualization_catalog": {
+      "file": "scripts/visualization_catalog.py",
+      "package": false,
+      "original": "scripts/visualization_catalog.py"
+    },
+    "visualization_recall": {
+      "file": "scripts/visualization_recall.py",
+      "package": false,
+      "original": "scripts/visualization_recall.py"
+    },
+    "workbuddy_fs": {
+      "file": "scripts/workbuddy_fs.py",
+      "package": false,
+      "original": "scripts/workbuddy_fs.py"
+    },
+    "workbuddy_ppt": {
+      "file": "scripts/workbuddy_ppt.py",
+      "package": false,
+      "original": "scripts/workbuddy_ppt.py"
+    },
+    "workflow_log": {
+      "file": "scripts/workflow_log.py",
+      "package": false,
+      "original": "scripts/workflow_log.py"
+    },
+    "workflow_transcript": {
+      "file": "scripts/workflow_transcript.py",
+      "package": false,
+      "original": "scripts/workflow_transcript.py"
+    }
+  },
+  "aliases": {
+    "embed_icons": "svg_finalize.embed_icons",
+    "_conversion_profile": "source_to_md._conversion_profile",
+    "_dispatcher": "source_to_md._dispatcher",
+    "_batch": "source_to_md._batch",
+    "annotations": "svg_editor.annotations"
+  }
+}

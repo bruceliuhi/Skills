@@ -1,0 +1,17 @@
+"""svg_finalize — shared self-containment + DrawingML-compat utilities.
+
+Used by two consumers:
+
+  1. finalize_svg.py — writes svg_output/ → svg_final/ on disk
+  2. svg_to_pptx (use_expander, tspan_flattener) — reuses these modules
+     in memory during native pptx conversion
+
+Deleting any module here is likely to break native pptx output, not just
+svg_final/. See scripts/docs/svg-pipeline.md for the full per-module consumer
+table.
+"""
+
+from _flat_layout import activate as _activate_flat_layout, asset as _bundle_path
+_activate_flat_layout()
+if __name__ == '__main__' and not __package__:
+    __package__ = 'svg_finalize'

@@ -1,0 +1,56 @@
+{
+  "slug": "word-document-expert",
+  "name": "Word文档专家",
+  "version": "1.0.0",
+  "observed_date": "2026-10-24",
+  "platform_id": "os_d5592fbcd098f9e6",
+  "platform_state": "under_review",
+  "package_parse": "passed",
+  "submitted_for_review": true,
+  "published": false,
+  "price": {
+    "cny": 0,
+    "planned_cny": 0,
+    "billing": "free",
+    "final_submission_saved": true
+  },
+  "icon_and_category": "saved_with_submission",
+  "submission_blocker": null,
+  "validation": {
+    "local_document_core": "passed",
+    "local_visual_preview": "passed_in_development_environment_only",
+    "workbuddy_native": "passed_core",
+    "workbuddy_cloud": "unknown",
+    "full_complex_revision_acceptance": "not_verified",
+    "table_of_contents_cache_refresh": "requires_Word_or_available_document_engine",
+    "workbuddy_native_independent_checks": {
+      "passed": 27,
+      "total": 27
+    },
+    "native_word_created_document": "passed_two_page_ui_review",
+    "native_word_reviewed_comments_ui": "passed_original_parent_reply_and_revision_visible",
+    "automatic_pdf_and_page_render": "not_available_in_current_runtime"
+  },
+  "files": {
+    "skill": "skills/word-document-expert/SKILL.md",
+    "package": "dist/word-document-expert-1.0.0-flat.zip",
+    "package_sha256": "1affaf5deeb3538f779aa7939160b42a04f8146a8717f4469c66444cb6c6748c",
+    "package_bytes": 345891,
+    "plaintext_file_count": 79,
+    "icon": "assets/word-document-expert-icon.png",
+    "listing": "word-listing.md"
+  },
+  "release_state": "under_review",
+  "edition": "free_core",
+  "future_pro": {
+    "state": "planned_separate_product",
+    "release_condition": "真正新增的功能完成验收后，再单独提交付费 Pro。"
+  },
+  "next_action_zh": "等待平台审核结果；审核通过后核对正式发布、市场展示与安装调用。",
+  "submission_receipt_zh": "已提交审核，预计7个工作日内出结果",
+  "market_categories": [
+    "办公协同",
+    "内容创作"
+  ],
+  "category": "工具—办公"
+}
