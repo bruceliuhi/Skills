@@ -199,7 +199,7 @@
       "number": 19,
       "name": "财务对账与月结专家",
       "slug": "finance-reconciliation-expert",
-      "amount_cny": 59,
+      "amount_cny": 19,
       "billing_mode": "one_time",
       "price_status": "launch_plan_not_live",
       "release_readiness": "core_validated_pending_paid_release",
