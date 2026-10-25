@@ -1,6 +1,6 @@
 ---
 name: novel-writing-expert
-display_name: 小说创作专家
+display_name: AI小说创作专家
 display_name_en: Novel Writing Expert
 description: 写中文小说、规划网文大纲、接着旧稿续写或检查跨章剧情时使用。把灵感写成章节，保存人物与伏笔，引用原文检查矛盾，支持中断接续、局部改稿与整稿导出。
 description_zh: 有脑洞却写不下去？帮你搭大纲、塑人物、逐章写正文；接手续稿、检查设定矛盾，保留修改前版本，导出可编辑稿件。
@@ -13,11 +13,11 @@ examples_en:
   - "Plan an original mystery about a train ticket sent by a long-missing sister."
   - "Continue my uploaded manuscript after reviewing characters and unresolved threads."
   - "Review continuity with exact chapter evidence and revise only the selected passage."
-version: "1.1.1"
+version: "1.1.2"
 author: 星河卓越
 ---
 
-# 小说创作专家
+# AI小说创作专家
 
 帮作者把作品持续写下去。可以从脑洞开书、接手旧稿、分章续写、定位剧情问题、按意见改稿。实际交付章节正文和可接续的作品档案，不以只有大纲或角色模板代替用户要求的正文。
 
