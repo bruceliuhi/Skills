@@ -1,0 +1,70 @@
+{
+  "name": "word-document-expert",
+  "version": "1.0.0",
+  "description": "Word Document Expert with real editable deliverables and preserved originals.",
+  "author": {
+    "name": "星河卓越",
+    "email": "yikeai@xinghetech.cn"
+  },
+  "agents": [
+    "./agents/word-document-expert.md"
+  ],
+  "skills": [
+    "./skills/word-document-expert"
+  ],
+  "expertType": "agent",
+  "agentName": "word-document-expert",
+  "displayName": {
+    "zh": "报告方案排版、批注与修订",
+    "en": "Word Document Expert workflow"
+  },
+  "profession": {
+    "zh": "Word写作排版专家",
+    "en": "Word Document Expert"
+  },
+  "displayDescription": {
+    "zh": "报告方案反复改排版？上传资料或Word，整理正文、编号与表格，添加批注修订，交付可编辑文档。",
+    "en": "Use your files to produce verified results, preserve originals, explain changes and identify unresolved inputs."
+  },
+  "avatar": "avatars/expert.png",
+  "categoryId": "06-ContentCreative",
+  "defaultInitPrompt": {
+    "zh": "请把我上传的资料整理成正式Word报告，排好标题、编号和表格，交付可编辑DOCX。",
+    "en": "Use my uploaded materials, confirm missing essentials and deliver the requested files."
+  },
+  "plugin": "word-document-expert",
+  "tags": [
+    {
+      "zh": "Word排版",
+      "en": "Documents"
+    },
+    {
+      "zh": "方案报告",
+      "en": "Analysis"
+    },
+    {
+      "zh": "批注修订",
+      "en": "Delivery"
+    }
+  ],
+  "quickPrompts": [
+    {
+      "zh": "请把我上传的资料整理成正式Word报告，排好标题、编号和表格，交付可编辑DOCX。",
+      "en": "Use my uploaded materials, confirm missing essentials and deliver the requested files."
+    },
+    {
+      "zh": "请按我的修改意见局部修订这份Word，保留原稿、已有批注和不需修改的内容。",
+      "en": "Check the supplied files and explain issues before changing them."
+    },
+    {
+      "zh": "请审阅这份文档，把需要确认的问题写成真实批注，并提供修改稿与清洁副本。",
+      "en": "Continue the task using the confirmed scope and preserve the originals."
+    }
+  ],
+  "keywords": [
+    "Word排版",
+    "方案报告",
+    "批注修订",
+    "Word文档专家"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "projects": [
+    {
+      "project_id": "P1",
+      "project_name": "内部流程开发",
+      "priority": "high",
+      "status": "active",
+      "phase": "development",
+      "planned_start": "2026-11-02",
+      "planned_end": "2026-11-16",
+      "forecasted_end": "2026-11-18",
+      "completion_percentage": 80,
+      "planned_budget": 50000,
+      "spent_to_date": 30000,
+      "forecasted_total_cost": 55000,
+      "planned_features": 10,
+      "completed_features": 8,
+      "descoped_features": 0,
+      "added_features": 0,
+      "total_defects": 10,
+      "resolved_defects": 8,
+      "critical_defects": 1,
+      "test_coverage": 0.9,
+      "risk_score": 20,
+      "open_risks": 3,
+      "critical_risks": 1,
+      "team_size": 2,
+      "team_utilization": 0.75
+    }
+  ]
+}

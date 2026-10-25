@@ -1,0 +1,70 @@
+{
+  "name": "office-project-specialist",
+  "version": "1.0.0",
+  "description": "Project Management Expert with real editable deliverables and preserved originals.",
+  "author": {
+    "name": "星河卓越",
+    "email": "yikeai@xinghetech.cn"
+  },
+  "agents": [
+    "./agents/office-project-specialist.md"
+  ],
+  "skills": [
+    "./skills/project-management-expert"
+  ],
+  "expertType": "agent",
+  "agentName": "office-project-specialist",
+  "displayName": {
+    "zh": "依赖排期、人员冲突与延期分析",
+    "en": "Project Management Expert workflow"
+  },
+  "profession": {
+    "zh": "项目排期管理专家",
+    "en": "Project Management Expert"
+  },
+  "displayDescription": {
+    "zh": "项目何时完成、延期影响哪里？提供任务与人员，找出关键路径、人手冲突和风险，交付排期与行动清单。",
+    "en": "Use your files to produce verified results, preserve originals, explain changes and identify unresolved inputs."
+  },
+  "avatar": "avatars/expert.png",
+  "categoryId": "10-ProjectQuality",
+  "defaultInitPrompt": {
+    "zh": "请根据我上传的任务表做项目计划，找出关键路径、人员冲突和需要确认的工期。",
+    "en": "Use my uploaded materials, confirm missing essentials and deliver the requested files."
+  },
+  "plugin": "office-project-specialist",
+  "tags": [
+    {
+      "zh": "项目排期",
+      "en": "Documents"
+    },
+    {
+      "zh": "关键路径",
+      "en": "Analysis"
+    },
+    {
+      "zh": "延期分析",
+      "en": "Delivery"
+    }
+  ],
+  "quickPrompts": [
+    {
+      "zh": "请根据我上传的任务表做项目计划，找出关键路径、人员冲突和需要确认的工期。",
+      "en": "Use my uploaded materials, confirm missing essentials and deliver the requested files."
+    },
+    {
+      "zh": "请比较指定任务延期两天前后的完成日期，列出受影响任务和可调整事项。",
+      "en": "Check the supplied files and explain issues before changing them."
+    },
+    {
+      "zh": "请检查这些项目的人手缺口、健康状态与风险，给出有依据的优先处理清单。",
+      "en": "Continue the task using the confirmed scope and preserve the originals."
+    }
+  ],
+  "keywords": [
+    "项目排期",
+    "关键路径",
+    "延期分析",
+    "项目管理专家"
+  ]
+}

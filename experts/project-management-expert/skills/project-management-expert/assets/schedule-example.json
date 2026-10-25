@@ -1,0 +1,54 @@
+{
+  "project_name": "业务流程升级试算（练习数据）",
+  "project_start": "2026-11-02",
+  "target_wd": 6,
+  "holidays": [],
+  "tasks": [
+    {
+      "id": "A",
+      "name": "确认需求",
+      "owner": "项目负责人",
+      "duration_days": 2,
+      "depends_on": []
+    },
+    {
+      "id": "B",
+      "name": "配置与开发",
+      "owner": "开发负责人",
+      "duration_days": 3,
+      "depends_on": [
+        "A"
+      ]
+    },
+    {
+      "id": "C",
+      "name": "培训准备",
+      "owner": "培训负责人",
+      "duration_days": 1,
+      "depends_on": [
+        "A"
+      ]
+    },
+    {
+      "id": "D",
+      "name": "联合验收",
+      "owner": "验收负责人",
+      "duration_days": 1,
+      "depends_on": [
+        "B",
+        "C"
+      ],
+      "deadline_wd": 6
+    },
+    {
+      "id": "M",
+      "name": "上线里程碑",
+      "owner": "项目负责人",
+      "duration_days": 0,
+      "depends_on": [
+        "D"
+      ],
+      "deadline_wd": 6
+    }
+  ]
+}

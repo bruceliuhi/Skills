@@ -1,0 +1,70 @@
+{
+  "name": "excel-office-specialist",
+  "version": "1.0.0",
+  "description": "Excel Document Expert with real editable deliverables and preserved originals.",
+  "author": {
+    "name": "星河卓越",
+    "email": "yikeai@xinghetech.cn"
+  },
+  "agents": [
+    "./agents/excel-office-specialist.md"
+  ],
+  "skills": [
+    "./skills/excel-document-expert"
+  ],
+  "expertType": "agent",
+  "agentName": "excel-office-specialist",
+  "displayName": {
+    "zh": "表格整理、公式分析与图表美化",
+    "en": "Excel Document Expert workflow"
+  },
+  "profession": {
+    "zh": "Excel文档专家",
+    "en": "Excel Document Expert"
+  },
+  "displayDescription": {
+    "zh": "表格杂乱、公式难算？上传工作簿，整理数据、核对公式并美化图表，交付保留原件的可编辑结果。",
+    "en": "Use your files to produce verified results, preserve originals, explain changes and identify unresolved inputs."
+  },
+  "avatar": "avatars/expert.png",
+  "categoryId": "04-DataAI",
+  "defaultInitPrompt": {
+    "zh": "请整理我上传的Excel，检查数据和公式，优化表格与图表，另存可编辑工作簿并说明修改。",
+    "en": "Use my uploaded materials, confirm missing essentials and deliver the requested files."
+  },
+  "plugin": "excel-office-specialist",
+  "tags": [
+    {
+      "zh": "Excel表格",
+      "en": "Documents"
+    },
+    {
+      "zh": "公式分析",
+      "en": "Analysis"
+    },
+    {
+      "zh": "图表美化",
+      "en": "Delivery"
+    }
+  ],
+  "quickPrompts": [
+    {
+      "zh": "请整理我上传的Excel，检查数据和公式，优化表格与图表，另存可编辑工作簿并说明修改。",
+      "en": "Use my uploaded materials, confirm missing essentials and deliver the requested files."
+    },
+    {
+      "zh": "请检查这份Excel的公式、异常值和汇总口径，先列问题，再按我确认的范围修改。",
+      "en": "Check the supplied files and explain issues before changing them."
+    },
+    {
+      "zh": "请把这份数据整理成适合汇报的表格和图表，保留原始数据与可编辑公式。",
+      "en": "Continue the task using the confirmed scope and preserve the originals."
+    }
+  ],
+  "keywords": [
+    "Excel表格",
+    "公式分析",
+    "图表美化",
+    "Excel文档专家"
+  ]
+}

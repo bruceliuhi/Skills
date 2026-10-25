@@ -1,0 +1,70 @@
+{
+  "name": "office-vendor-specialist",
+  "version": "1.0.0",
+  "description": "Vendor Review Expert with real editable deliverables and preserved originals.",
+  "author": {
+    "name": "星河卓越",
+    "email": "yikeai@xinghetech.cn"
+  },
+  "agents": [
+    "./agents/office-vendor-specialist.md"
+  ],
+  "skills": [
+    "./skills/vendor-evaluation-expert"
+  ],
+  "expertType": "agent",
+  "agentName": "office-vendor-specialist",
+  "displayName": {
+    "zh": "IT供应商绩效、续约与风险评审",
+    "en": "Vendor Review Expert workflow"
+  },
+  "profession": {
+    "zh": "供应商绩效评估专家",
+    "en": "Vendor Review Expert"
+  },
+  "displayDescription": {
+    "zh": "供应商续约还是整改？提供IT服务资料，核对绩效与服务差距、识别风险，形成有依据的评审和待办清单。",
+    "en": "Use your files to produce verified results, preserve originals, explain changes and identify unresolved inputs."
+  },
+  "avatar": "avatars/expert.png",
+  "categoryId": "12-IndustryConsultant",
+  "defaultInitPrompt": {
+    "zh": "请根据我上传的IT或SaaS供应商资料做续约评审，给绩效评分、服务差距与待补证据。",
+    "en": "Use my uploaded materials, confirm missing essentials and deliver the requested files."
+  },
+  "plugin": "office-vendor-specialist",
+  "tags": [
+    {
+      "zh": "供应商评估",
+      "en": "Documents"
+    },
+    {
+      "zh": "续约评审",
+      "en": "Analysis"
+    },
+    {
+      "zh": "服务指标",
+      "en": "Delivery"
+    }
+  ],
+  "quickPrompts": [
+    {
+      "zh": "请根据我上传的IT或SaaS供应商资料做续约评审，给绩效评分、服务差距与待补证据。",
+      "en": "Use my uploaded materials, confirm missing essentials and deliver the requested files."
+    },
+    {
+      "zh": "请检查这份供应商服务指标，列出未达标项、趋势和需要确认的原因。",
+      "en": "Check the supplied files and explain issues before changing them."
+    },
+    {
+      "zh": "请评估关键供应商的风险，分清已有依据与未知事项，形成后续跟进清单。",
+      "en": "Continue the task using the confirmed scope and preserve the originals."
+    }
+  ],
+  "keywords": [
+    "供应商评估",
+    "续约评审",
+    "服务指标",
+    "供应商评估专家"
+  ]
+}
