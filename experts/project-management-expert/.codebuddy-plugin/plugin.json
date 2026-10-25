@@ -30,7 +30,7 @@
   "categoryId": "10-ProjectQuality",
   "defaultInitPrompt": {
     "zh": "请整理我上传的一份任务CSV，指出责任人、截止日的缺项和日期格式问题，生成下一步清单；不计算排期。",
-    "en": "Free task-list preparation for my selected CSV; preserve the original."
+    "en": "Free task-list preparation using only the supplied CSV."
   },
   "plugin": "office-project-specialist",
   "tags": [

@@ -30,7 +30,7 @@
   "categoryId": "04-DataAI",
   "defaultInitPrompt": {
     "zh": "请查看我上传的单份CSV（最多200条记录、1MiB），给出行列数、字段样例和空值概览，保留原文件。",
-    "en": "Free CSV field overview for my selected CSV; preserve the original."
+    "en": "Free CSV field overview using only the supplied CSV."
   },
   "plugin": "office-data-quality-specialist",
   "tags": [
