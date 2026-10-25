@@ -563,10 +563,15 @@ def main():
         root = checked_path(args.project)
         if args.command == "init":
             result = init_project(args, root)
-        else:
+        elif args.command in {"plan", "add"}:
             with project_lock(root):
                 state = read_state(root)
-                result = {"plan": set_plan, "add": add_chapter, "context": context, "audit": audit, "export": export}[args.command](args, root, state) if args.command != "status" else status(root, state)
+                result = {"plan": set_plan, "add": add_chapter}[args.command](args, root, state)
+        else:
+            # manifest 以原子替换发布；其引用的修订写完后不再修改。
+            # 本轮只加载一次索引，读命令可与写入并行而保持旧或新完整快照。
+            state = read_state(root)
+            result = {"context": context, "audit": audit, "export": export}[args.command](args, root, state) if args.command != "status" else status(root, state)
         print(json.dumps(result, ensure_ascii=False, indent=2))
         return 2 if args.command == "audit" and (result["issues"] or result["missing"]) else 0
     except (NovelError, OSError, KeyError, TypeError, ValueError) as exc:

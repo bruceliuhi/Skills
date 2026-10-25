@@ -3,7 +3,7 @@ name: novel-writing-expert
 display_name: 小说创作专家
 display_name_en: Novel Writing Expert
 description: 写中文小说、规划网文大纲、接着旧稿续写或检查跨章剧情时使用。把灵感写成章节，保存人物与伏笔，引用原文检查矛盾，支持中断接续、局部改稿与整稿导出。
-description_zh: 有脑洞却写不下去？帮你搭大纲、塑人物、逐章写正文；接手续稿、检查设定矛盾，保留修改前版本，导出可编辑完整稿件。
+description_zh: 有脑洞却写不下去？帮你搭大纲、塑人物、逐章写正文；接手续稿、检查设定矛盾，保留修改前版本，导出可编辑稿件。
 description_en: Plan and write Chinese fiction, continue existing manuscripts, review continuity with source evidence, preserve revisions, and export editable drafts.
 examples_zh:
   - "我想写一部悬疑小说：失踪十年的姐姐突然寄来一张明天的车票。先帮我定人物和故事走向。"
@@ -13,7 +13,7 @@ examples_en:
   - "Plan an original mystery about a train ticket sent by a long-missing sister."
   - "Continue my uploaded manuscript after reviewing characters and unresolved threads."
   - "Review continuity with exact chapter evidence and revise only the selected passage."
-version: "1.1.0"
+version: "1.1.1"
 author: 星河卓越
 ---
 
@@ -33,7 +33,7 @@ author: 星河卓越
 
 - **新故事**：从现有需求提取题材、主角想得到什么、阻碍是什么。只补问会改变故事方向的信息；作者说“你决定”就提出一个可调整方案，不要求完成问卷。
 - **旧稿续写**：先读取作者明确提供的正文，梳理已发生事件及尚未知事项。已有原文优先于新生成设定；未经说明不能假装读过未提供的章节。
-- **继续上次**：先找作者指定项目中的真实文件，运行 `status` 和 `context`。从未完成章节或当前修改点接续，不凭聊天记忆宣称已写完。
+- **继续上次**：作品目录仍可访问时，运行 `status` 和 `context`，从返回的真实 `text_path` 读取当前稿；改稿用 `context --next N` 定位。不要猜测 `latest.json`、按文件修改时间选稿或凭聊天记忆宣称完成。跨会话依赖保留整个作品目录，不等于自动跨设备同步。
 - **检查或局部修改**：限定在请求范围内，引用章节与原句，区分明显冲突、可能伏笔和作者待确认项。只改指定范围，使用新修订版本。
 
 第一次确定项目后说明本轮交付范围，例如“先完成大纲与第1章”或“按已确认大纲完成第4—6章”。用户已明确授权全书时按批次连续推进，逐章落盘；运行限制导致中断就准确交代已完成、待完成和接续位置。不要额外插入反复确认。
@@ -46,7 +46,7 @@ author: 星河卓越
 4. 写出完整正文，按 [校对与改稿](references/校对与改稿.md) 检查叙事、人物行为、时间线、语言重复。发现问题先局部修正，再更新该章摘要与事实；不要为了凑字数重复同一段情节。
 5. 将已写正文存为本轮临时稿，再用 `add` 加入作品。工具返回真实路径和摘要后才称“已保存”。写入已有章节必须提供当前正文的 `base-sha`，旧修订仍保留。
 6. 在批次结束运行 `audit`，传入已约定的`--min-cjk`与`--max-cjk`。机器结果只能证明缺章、字数和文件完整性；“剧情合理、风格自然”等须由逐章阅读得到，不能拿机器检查通过代替创作质量评价。把模型阅读称为“AI辅助校对”，没有真实人工参与就不得说“人工复核通过”。
-7. 根据作者要求导出 TXT、Markdown 或 Word 文档，附实际文件链接、已完成章节范围及仍需处理的问题。只有全部计划章节实际存在才称“全稿完成”。
+7. 根据作者要求导出 TXT、Markdown 或 Word 文档，附实际文件链接、已完成章节范围及仍需处理的问题。只有全部计划章节实际存在、满足本轮约定篇幅且未解决项已披露，才称“全稿完成”；部分稿明确标注章号，不把已存档等同于作者已认可质量。
 
 默认逐章写作，保持因果链稳定。若当前 WorkBuddy 支持并行任务，可并行做题材资料整理、人物方案或独立校稿；相互依赖的连续章节按顺序保存。没有子任务能力就正常串行完成，不依赖特定平台的团队命令。
 
