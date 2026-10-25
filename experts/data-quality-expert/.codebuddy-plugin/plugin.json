@@ -1,7 +1,7 @@
 {
   "name": "office-data-quality-specialist",
-  "version": "1.0.0",
-  "description": "Data Quality Expert with real editable deliverables and preserved originals.",
+  "version": "1.0.1",
+  "description": "免费查看一份小型表格的行列数、字段样例和空值概览，交付中文报告；不含完整质量诊断。",
   "author": {
     "name": "星河卓越",
     "email": "yikeai@xinghetech.cn"
@@ -15,56 +15,56 @@
   "expertType": "agent",
   "agentName": "office-data-quality-specialist",
   "displayName": {
-    "zh": "报表体检、缺失检查与异常定位",
-    "en": "Data Quality Expert workflow"
+    "zh": "免费CSV字段样例与空值初览",
+    "en": "Free CSV field overview"
   },
   "profession": {
     "zh": "数据质量诊断专家",
     "en": "Data Quality Expert"
   },
   "displayDescription": {
-    "zh": "报表不可信，先查哪一行？上传CSV，检查缺失、异常和字段规则，定位原始记录，交付可复核问题清单。",
-    "en": "Use your files to produce verified results, preserve originals, explain changes and identify unresolved inputs."
+    "zh": "免费查看一份小型表格的行列数、字段样例和空值概览，交付中文报告；不含完整质量诊断。",
+    "en": "Free CSV field overview. One CSV, up to 200 records and 1 MiB. Chinese Markdown and CSV outputs; no advanced paid engine."
   },
   "avatar": "avatars/expert.png",
   "categoryId": "04-DataAI",
   "defaultInitPrompt": {
-    "zh": "请检查我上传的CSV，先做数据画像、缺失与异常检查，保留原值并列出需复核记录。",
-    "en": "Use my uploaded materials, confirm missing essentials and deliver the requested files."
+    "zh": "请查看我上传的单份CSV（最多200条记录、1MiB），给出行列数、字段样例和空值概览，保留原文件。",
+    "en": "Free CSV field overview for my selected CSV; preserve the original."
   },
   "plugin": "office-data-quality-specialist",
   "tags": [
     {
-      "zh": "数据检查",
-      "en": "Documents"
+      "zh": "CSV概览",
+      "en": "Free CSV field overview"
     },
     {
-      "zh": "异常定位",
-      "en": "Analysis"
+      "zh": "字段样例",
+      "en": "Free CSV field overview"
     },
     {
-      "zh": "报表体检",
-      "en": "Delivery"
+      "zh": "空值初览",
+      "en": "Free CSV field overview"
     }
   ],
   "quickPrompts": [
     {
-      "zh": "请检查我上传的CSV，先做数据画像、缺失与异常检查，保留原值并列出需复核记录。",
-      "en": "Use my uploaded materials, confirm missing essentials and deliver the requested files."
+      "zh": "请查看我上传的单份CSV（最多200条记录、1MiB），给出行列数、字段样例和空值概览，保留原文件。",
+      "en": "Free CSV field overview using only the supplied CSV."
     },
     {
-      "zh": "请按照我提供的字段规则校验这份数据，给出失败行、原因和原始值。",
-      "en": "Check the supplied files and explain issues before changing them."
+      "zh": "请用这份小型CSV说明每个字段的原值样例，不做质量评分或异常定位。",
+      "en": "Free CSV field overview using only the supplied CSV."
     },
     {
-      "zh": "请比较两期数据的缺失与分布变化，先核对口径，再说明变化和待确认事项。",
-      "en": "Continue the task using the confirmed scope and preserve the originals."
+      "zh": "请统计本次样本每列的空白数量，交付中文概览和可编辑CSV，不替我填补数据。",
+      "en": "Free CSV field overview using only the supplied CSV."
     }
   ],
   "keywords": [
-    "数据检查",
-    "异常定位",
-    "报表体检",
-    "数据质量专家"
+    "CSV概览",
+    "字段样例",
+    "空值初览",
+    "数据质量诊断专家"
   ]
 }

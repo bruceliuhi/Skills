@@ -1,7 +1,7 @@
 {
   "name": "office-vendor-specialist",
-  "version": "1.0.0",
-  "description": "Vendor Review Expert with real editable deliverables and preserved originals.",
+  "version": "1.0.1",
+  "description": "Free preparation of one vendor document inventory and missing evidence descriptions.",
   "author": {
     "name": "星河卓越",
     "email": "yikeai@xinghetech.cn"
@@ -15,56 +15,57 @@
   "expertType": "agent",
   "agentName": "office-vendor-specialist",
   "displayName": {
-    "zh": "IT供应商绩效、续约与风险评审",
-    "en": "Vendor Review Expert workflow"
+    "zh": "免费：单家资料清单与证据缺口",
+    "en": "Free preparation of one vendor document inventory and missing evidence descriptions."
   },
   "profession": {
     "zh": "供应商绩效评估专家",
     "en": "Vendor Review Expert"
   },
   "displayDescription": {
-    "zh": "供应商续约还是整改？提供IT服务资料，核对绩效与服务差距、识别风险，形成有依据的评审和待办清单。",
-    "en": "Use your files to produce verified results, preserve originals, explain changes and identify unresolved inputs."
+    "zh": "供应商资料散、缺什么不清楚？免费整理单家材料来源与证据缺口，生成跟进清单，方便评审前补齐资料。",
+    "en": "Free preparation of one vendor document inventory and missing evidence descriptions."
   },
   "avatar": "avatars/expert.png",
   "categoryId": "12-IndustryConsultant",
   "defaultInitPrompt": {
-    "zh": "请根据我上传的IT或SaaS供应商资料做续约评审，给绩效评分、服务差距与待补证据。",
-    "en": "Use my uploaded materials, confirm missing essentials and deliver the requested files."
+    "zh": "免费整理这家供应商的材料清单，分清已登记来源与本次材料未说明的事项，生成待补清单。",
+    "en": "免费整理这家供应商的材料清单，分清已登记来源与本次材料未说明的事项，生成待补清单。"
   },
   "plugin": "office-vendor-specialist",
   "tags": [
     {
-      "zh": "供应商评估",
-      "en": "Documents"
+      "zh": "资料清单",
+      "en": "资料清单"
     },
     {
-      "zh": "续约评审",
-      "en": "Analysis"
+      "zh": "证据缺口",
+      "en": "证据缺口"
     },
     {
-      "zh": "服务指标",
-      "en": "Delivery"
+      "zh": "评审准备",
+      "en": "评审准备"
     }
   ],
   "quickPrompts": [
     {
-      "zh": "请根据我上传的IT或SaaS供应商资料做续约评审，给绩效评分、服务差距与待补证据。",
-      "en": "Use my uploaded materials, confirm missing essentials and deliver the requested files."
+      "zh": "免费整理这家供应商的材料清单，分清已登记来源与本次材料未说明的事项，生成待补清单。",
+      "en": "免费整理这家供应商的材料清单，分清已登记来源与本次材料未说明的事项，生成待补清单。"
     },
     {
-      "zh": "请检查这份供应商服务指标，列出未达标项、趋势和需要确认的原因。",
-      "en": "Check the supplied files and explain issues before changing them."
+      "zh": "把我提供的单家供应商资料整理成来源清单，缺少文件名或页码的位置请明确标出。",
+      "en": "把我提供的单家供应商资料整理成来源清单，缺少文件名或页码的位置请明确标出。"
     },
     {
-      "zh": "请评估关键供应商的风险，分清已有依据与未知事项，形成后续跟进清单。",
-      "en": "Continue the task using the confirmed scope and preserve the originals."
+      "zh": "请根据已有资料准备清单整理补充材料的沟通草稿，先不评分、排名或判断是否续约。",
+      "en": "请根据已有资料准备清单整理补充材料的沟通草稿，先不评分、排名或判断是否续约。"
     }
   ],
   "keywords": [
-    "供应商评估",
-    "续约评审",
-    "服务指标",
-    "供应商评估专家"
+    "供应商绩效评估专家",
+    "资料清单",
+    "证据缺口",
+    "评审准备",
+    "免费资料准备"
   ]
 }

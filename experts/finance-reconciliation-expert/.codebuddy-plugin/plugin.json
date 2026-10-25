@@ -1,7 +1,7 @@
 {
   "name": "office-finance-specialist",
-  "version": "1.0.0",
-  "description": "Financial Reconciliation and Close Expert with real editable deliverables and preserved originals.",
+  "version": "1.0.1",
+  "description": "Free preparation checks for one CSV: field names, date and amount formats only.",
   "author": {
     "name": "星河卓越",
     "email": "yikeai@xinghetech.cn"
@@ -15,56 +15,57 @@
   "expertType": "agent",
   "agentName": "office-finance-specialist",
   "displayName": {
-    "zh": "账目差异、月结排期与金额变动",
-    "en": "Financial Reconciliation and Close Expert workflow"
+    "zh": "免费：账表格式初检与导入准备",
+    "en": "Free preparation checks for one CSV: field names, date and amount formats only."
   },
   "profession": {
     "zh": "财务对账月结专家",
     "en": "Financial Reconciliation and Close Expert"
   },
   "displayDescription": {
-    "zh": "账目对不上、月结总拖延？上传CSV明细，定位未清差异与账龄，安排月结依赖，检查重要金额变动依据。",
-    "en": "Use your files to produce verified results, preserve originals, explain changes and identify unresolved inputs."
+    "zh": "账表导入前先查格式。免费检查一份CSV的字段、日期与金额写法，生成逐行问题表和导入准备清单。",
+    "en": "Free preparation checks for one CSV: field names, date and amount formats only."
   },
   "avatar": "avatars/expert.png",
   "categoryId": "08-FinanceInvestment",
   "defaultInitPrompt": {
-    "zh": "请核对我上传的总账与流水CSV，先确认期间、币种和收付款口径，再列出未清差异与账龄。",
-    "en": "Use my uploaded materials, confirm missing essentials and deliver the requested files."
+    "zh": "免费检查我上传的这一份账表CSV，标出日期、金额格式和缺失字段，生成导入准备清单。",
+    "en": "免费检查我上传的这一份账表CSV，标出日期、金额格式和缺失字段，生成导入准备清单。"
   },
   "plugin": "office-finance-specialist",
   "tags": [
     {
-      "zh": "财务对账",
-      "en": "Documents"
+      "zh": "CSV初检",
+      "en": "CSV初检"
     },
     {
-      "zh": "月结排期",
-      "en": "Analysis"
+      "zh": "字段格式",
+      "en": "字段格式"
     },
     {
-      "zh": "差异分析",
-      "en": "Delivery"
+      "zh": "导入准备",
+      "en": "导入准备"
     }
   ],
   "quickPrompts": [
     {
-      "zh": "请核对我上传的总账与流水CSV，先确认期间、币种和收付款口径，再列出未清差异与账龄。",
-      "en": "Use my uploaded materials, confirm missing essentials and deliver the requested files."
+      "zh": "免费检查我上传的这一份账表CSV，标出日期、金额格式和缺失字段，生成导入准备清单。",
+      "en": "免费检查我上传的这一份账表CSV，标出日期、金额格式和缺失字段，生成导入准备清单。"
     },
     {
-      "zh": "请按这份月结任务安排工作日计划，标出关键路径、复核角色缺口和人员超载。",
-      "en": "Check the supplied files and explain issues before changing them."
+      "zh": "这份CSV使用中文列名，请按我确认的日期列和金额列做免费格式初检，保留原件。",
+      "en": "这份CSV使用中文列名，请按我确认的日期列和金额列做免费格式初检，保留原件。"
     },
     {
-      "zh": "请检查本期与比较期的金额变动，按我确认的阈值列出重要差异和解释依据待补项。",
-      "en": "Continue the task using the confirmed scope and preserve the originals."
+      "zh": "根据这份格式初检结果，告诉我正式对账前还需要准备哪些资料；先不做自动对账。",
+      "en": "根据这份格式初检结果，告诉我正式对账前还需要准备哪些资料；先不做自动对账。"
     }
   ],
   "keywords": [
-    "财务对账",
-    "月结排期",
-    "差异分析",
-    "财务对账与月结专家"
+    "财务对账月结专家",
+    "CSV初检",
+    "字段格式",
+    "导入准备",
+    "免费资料准备"
   ]
 }

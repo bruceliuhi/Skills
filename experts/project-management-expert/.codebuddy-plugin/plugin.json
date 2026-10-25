@@ -1,7 +1,7 @@
 {
   "name": "office-project-specialist",
-  "version": "1.0.0",
-  "description": "Project Management Expert with real editable deliverables and preserved originals.",
+  "version": "1.0.1",
+  "description": "免费梳理一份任务清单，找出责任人和截止日缺项，生成可编辑下一步清单；不含自动排期。",
   "author": {
     "name": "星河卓越",
     "email": "yikeai@xinghetech.cn"
@@ -15,56 +15,56 @@
   "expertType": "agent",
   "agentName": "office-project-specialist",
   "displayName": {
-    "zh": "依赖排期、人员冲突与延期分析",
-    "en": "Project Management Expert workflow"
+    "zh": "免费任务清单整理与下一步确认",
+    "en": "Free task-list preparation"
   },
   "profession": {
     "zh": "项目排期管理专家",
     "en": "Project Management Expert"
   },
   "displayDescription": {
-    "zh": "项目何时完成、延期影响哪里？提供任务与人员，找出关键路径、人手冲突和风险，交付排期与行动清单。",
-    "en": "Use your files to produce verified results, preserve originals, explain changes and identify unresolved inputs."
+    "zh": "免费梳理一份任务清单，找出责任人和截止日缺项，生成可编辑下一步清单；不含自动排期。",
+    "en": "Free task-list preparation. One CSV, up to 200 records and 1 MiB. Chinese Markdown and CSV outputs; no advanced paid engine."
   },
   "avatar": "avatars/expert.png",
   "categoryId": "10-ProjectQuality",
   "defaultInitPrompt": {
-    "zh": "请根据我上传的任务表做项目计划，找出关键路径、人员冲突和需要确认的工期。",
-    "en": "Use my uploaded materials, confirm missing essentials and deliver the requested files."
+    "zh": "请整理我上传的一份任务CSV，指出责任人、截止日的缺项和日期格式问题，生成下一步清单；不计算排期。",
+    "en": "Free task-list preparation for my selected CSV; preserve the original."
   },
   "plugin": "office-project-specialist",
   "tags": [
     {
-      "zh": "项目排期",
-      "en": "Documents"
+      "zh": "任务清单",
+      "en": "Free task-list preparation"
     },
     {
-      "zh": "关键路径",
-      "en": "Analysis"
+      "zh": "责任分工",
+      "en": "Free task-list preparation"
     },
     {
-      "zh": "延期分析",
-      "en": "Delivery"
+      "zh": "下一步整理",
+      "en": "Free task-list preparation"
     }
   ],
   "quickPrompts": [
     {
-      "zh": "请根据我上传的任务表做项目计划，找出关键路径、人员冲突和需要确认的工期。",
-      "en": "Use my uploaded materials, confirm missing essentials and deliver the requested files."
+      "zh": "请整理我上传的一份任务CSV，指出责任人、截止日的缺项和日期格式问题，生成下一步清单；不计算排期。",
+      "en": "Free task-list preparation using only the supplied CSV."
     },
     {
-      "zh": "请比较指定任务延期两天前后的完成日期，列出受影响任务和可调整事项。",
-      "en": "Check the supplied files and explain issues before changing them."
+      "zh": "我已经给出任务和负责人，请把需要补齐的截止日列出来，保留其他原值。",
+      "en": "Free task-list preparation using only the supplied CSV."
     },
     {
-      "zh": "请检查这些项目的人手缺口、健康状态与风险，给出有依据的优先处理清单。",
-      "en": "Continue the task using the confirmed scope and preserve the originals."
+      "zh": "根据这份清单已有的下一步动作，整理一份可继续编辑的任务表，保留原件。",
+      "en": "Free task-list preparation using only the supplied CSV."
     }
   ],
   "keywords": [
-    "项目排期",
-    "关键路径",
-    "延期分析",
-    "项目管理专家"
+    "任务清单",
+    "责任分工",
+    "下一步整理",
+    "项目排期管理专家"
   ]
 }
