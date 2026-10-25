@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" font-size="28" data-pptx-page-role="content">
+  <rect id="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="title" data-pptx-bounds="80 40 1120 80"><text x="80" y="96" font-size="42" font-weight="bold" fill="#102D35">三类材料的处理数量</text></g>
+  <g id="materials-count" data-pptx-bounds="80 150 1120 470" data-pptx-replace-with="chart" data-pptx-fallback-sha256="3394b4b2028665b5b2984af5d4ca982930af28632f96f42b29d81b4cafd38cf3">
+    <metadata type="application/json">{"x":80,"y":150,"width":1120,"height":470,"name":"materials-count","type":"column","categories":["文档","表格","演示"],"series":[{"name":"份数","values":[12,18,9]}],"data_labels":{"show_value":true,"position":"outside_end","font_size":24,"font_family":"Microsoft YaHei","color":"#102D35"},"axes":{"category":{"kind":"text","position":"bottom"},"value":{"kind":"value","position":"left","minimum":0,"maximum":20,"major_unit":10,"major_gridlines":true}},"style":{"colors":["#167968"],"font_family":"Microsoft YaHei","axis_font_size":24,"chart_area_fill":"#FFFFFF","plot_area_fill":"#FFFFFF","text_color":"#102D35","axis_color":"#CBD5D1","grid_color":"#CBD5D1"}}</metadata>
+    <rect x="80" y="150" width="1120" height="470" fill="#FFFFFF"/>
+    <g id="axis" stroke="#CBD5D1" stroke-width="2"><line x1="170" y1="550" x2="1150" y2="550"/><line x1="170" y1="370" x2="1150" y2="370"/><line x1="170" y1="190" x2="1150" y2="190"/></g>
+    <g id="axis-labels" font-size="24" fill="#102D35"><text x="140" y="558" text-anchor="end">0</text><text x="140" y="378" text-anchor="end">10</text><text x="140" y="198" text-anchor="end">20</text></g>
+    <g id="bars" fill="#167968"><rect x="290" y="334" width="130" height="216"/><rect x="620" y="226" width="130" height="324"/><rect x="950" y="388" width="130" height="162"/></g>
+    <g id="values" fill="#102D35" font-size="24" text-anchor="middle"><text x="355" y="316">12</text><text x="685" y="208">18</text><text x="1015" y="370">9</text><text x="355" y="595">文档</text><text x="685" y="595">表格</text><text x="1015" y="595">演示</text></g>
+  </g>
+  <g id="source" data-pptx-bounds="80 642 1120 40"><text x="80" y="672" font-size="20" fill="#526B65">资料来源：本次验收输入，单位为份</text></g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" font-size="28" data-pptx-page-role="ending">
+  <rect id="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="title" data-pptx-bounds="80 40 1120 80"><text x="80" y="96" font-size="42" font-weight="bold" fill="#102D35">交付前检查每一项</text></g>
+  <g id="delivery-checklist" data-pptx-bounds="80 180 1120 300" data-pptx-replace-with="table" data-pptx-fallback-sha256="a0059090001c8690692d30a1058017a87171f0fcd1d6c631ab36fa515524a9ed">
+    <metadata type="application/json">{"schema":"ppt-master.semantic-table.v2","x":80,"y":180,"width":1120,"height":300,"name":"delivery-checklist","columns":[{"text":"检查对象","align":"l","bold":false},{"text":"需要确认","align":"l","bold":false}],"rows":[["文字与图表","文字可编辑，图表数据与输入一致"],["讲稿与原件","每页有讲稿，原文件保持不变"]],"column_widths":[320,800],"row_heights":[100,100,100],"style":{"font_family":"Microsoft YaHei","font_size":28,"header_font_size":28,"band_row":false,"border_color":"#CBD5D1","border_width":1},"defaults":{"cell":{"fill":"#FFFFFF","color":"#102D35","valign":"middle","padding":16}}}</metadata>
+    <g id="table-grid" fill="#FFFFFF" stroke="#CBD5D1" stroke-width="1"><rect x="80" y="180" width="320" height="100"/><rect x="400" y="180" width="800" height="100"/><rect x="80" y="280" width="320" height="100"/><rect x="400" y="280" width="800" height="100"/><rect x="80" y="380" width="320" height="100"/><rect x="400" y="380" width="800" height="100"/></g>
+    <g id="table-text" fill="#102D35"><text x="96" y="240">检查对象</text><text x="416" y="240">需要确认</text><text x="96" y="340">文字与图表</text><text x="416" y="340">文字可编辑，图表数据与输入一致</text><text x="96" y="440">讲稿与原件</text><text x="416" y="440">每页有讲稿，原文件保持不变</text></g>
+  </g>
+  <g id="conclusion" data-pptx-bounds="80 550 1120 60"><text x="80" y="590" fill="#526B65">先检查真实文件，再判断交付是否完成</text></g>
+</svg>

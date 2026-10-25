@@ -26,3 +26,11 @@ Excel 与 Word 使用当前环境实际提供的文档编辑、计算和保存�
 专家审核与技能审核是两个独立状态。提交审核不等于正式上架；上表按当前已确认进度更新，下载 ZIP 也不代表商店已经开放安装。
 
 [返回办公产品目录](README.md)
+
+## PPT云端专家入口
+
+「PPT汇报设计专家」1.1.0 为免费入口，已提交审核，尚未上架。它与免费技能「PPT制作与美化专家」共用同一自有云能力，不需要分别购买。由于专家名称须唯一，两个入口的展示名称有区别。
+
+[专家包](dist/ppt-presentation-expert-expert-cloud-1.1.0.zip) · [专家说明](experts/ppt-presentation-expert/) · [轻量技能包](dist/ppt-presentation-expert-cloud-1.1.0.zip) · [服务范围](services/ppt-cloud/CLOUD_PRODUCT.md)
+
+真实核心流程已在WorkBuddy完成新建、导入、指定页修改、下载与三页预览；市场安装与调用入口仍需等审核通过后单独核验。当前匿名会话资源限制不等于购买权益，付费Pro未开放。

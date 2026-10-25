@@ -1,0 +1,71 @@
+{
+  "name": "office-ppt-deck-specialist",
+  "version": "1.1.0",
+  "description": "Create editable presentations and revise selected pages through the self-hosted PPT service.",
+  "author": {
+    "name": "星河卓越",
+    "email": "yikeai@xinghetech.cn"
+  },
+  "agents": [
+    "./agents/office-ppt-deck-specialist.md"
+  ],
+  "skills": [
+    "./skills/ppt-presentation-expert"
+  ],
+  "expertType": "agent",
+  "agentName": "office-ppt-deck-specialist",
+  "displayName": {
+    "zh": "资料成稿、逐页预览与指定页续改",
+    "en": "Editable decks, previews and focused revisions"
+  },
+  "profession": {
+    "zh": "PPT汇报设计专家",
+    "en": "Presentation Creation and Design Expert"
+  },
+  "displayDescription": {
+    "zh": "PPT做得慢、改稿反复？上传选定资料，自有云生成可编辑页面、图表与讲稿，附逐页预览并支持指定页续改。",
+    "en": "Use selected materials to create editable slides, native charts, notes and rendered previews; revise selected pages through the operator-hosted service."
+  },
+  "avatar": "avatars/expert.png",
+  "categoryId": "06-ContentCreative",
+  "defaultInitPrompt": {
+    "zh": "请把我提供的资料做成3页商务汇报PPT，可将本次选中资料交给本专家自有云处理，交付可编辑PPTX、PDF和逐页预览。",
+    "en": "请把我提供的资料做成3页商务汇报PPT，可将本次选中资料交给本专家自有云处理，交付可编辑PPTX、PDF和逐页预览。"
+  },
+  "plugin": "office-ppt-deck-specialist",
+  "tags": [
+    {
+      "zh": "PPT制作",
+      "en": "PPT制作"
+    },
+    {
+      "zh": "PPT美化",
+      "en": "PPT美化"
+    },
+    {
+      "zh": "演示汇报",
+      "en": "演示汇报"
+    }
+  ],
+  "quickPrompts": [
+    {
+      "zh": "请把我提供的资料做成3页商务汇报PPT，可将本次选中资料交给本专家自有云处理，交付可编辑PPTX、PDF和逐页预览。",
+      "en": "请把我提供的资料做成3页商务汇报PPT，可将本次选中资料交给本专家自有云处理，交付可编辑PPTX、PDF和逐页预览。"
+    },
+    {
+      "zh": "请基于我上传的PPTX只修改指定页面，可将该文件交给本专家自有云处理，保留原件及未修改内容。",
+      "en": "请基于我上传的PPTX只修改指定页面，可将该文件交给本专家自有云处理，保留原件及未修改内容。"
+    },
+    {
+      "zh": "请用我提供的真实数字制作可编辑图表和中文讲稿，逐页核对；先说明本次云端处理范围。",
+      "en": "请用我提供的真实数字制作可编辑图表和中文讲稿，逐页核对；先说明本次云端处理范围。"
+    }
+  ],
+  "keywords": [
+    "PPT制作",
+    "PPT美化",
+    "PowerPoint",
+    "汇报",
+    "PPT修改"
+  ]
+}

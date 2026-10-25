@@ -1,0 +1,6 @@
+# 固定核心组件；仅通过 bootstrap_runtime.py 安装到全新的隔离虚拟环境。
+python-pptx==1.0.2
+XlsxWriter==3.2.9
+Pillow==11.3.0
+lxml==5.4.0
+typing_extensions==4.15.0

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" font-size="28" data-pptx-page-role="cover">
+  <rect id="background" x="0" y="0" width="1280" height="720" fill="#102D35"/>
+  <g id="title" data-pptx-bounds="88 145 1100 180">
+    <text x="88" y="210" font-size="56" font-weight="bold" fill="#FFFFFF">让每次汇报都有可修改的成果</text>
+    <text x="88" y="290" font-size="36" fill="#BADED3">可编辑文字 · 原生图表 · 逐页讲稿</text>
+  </g>
+  <g id="scope" data-pptx-bounds="88 410 1100 150">
+    <text x="88" y="465" fill="#FFFFFF">本地验收资料：用于核对结构与数据，不代表客户案例</text>
+    <text x="88" y="525" font-size="24" fill="#BADED3">三页材料，保留修改前后文件与检查结果</text>
+  </g>
+</svg>
